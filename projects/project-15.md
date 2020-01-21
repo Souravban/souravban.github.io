@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Building_Various_MLP_and_CNN_Architectures-on-MNIST_Dataset_icon.png
+title: Building_Various_MLP_and_CNN_Architectures_on_MNIST
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-07-05
 labels:
   - Machine Learning
   - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: We are building various Deep Learning models on MNIST Dataset.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
