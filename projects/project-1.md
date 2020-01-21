@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/Document_Image_Classification_icon.png
+title: Image Classification Decoded
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
