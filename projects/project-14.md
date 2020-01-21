@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Microsoft_Malware_Detection_icon.png
+title: Microsoft Malware Detection
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-06-11
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Identify whether a given piece of file/software is a Malware.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
