@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Quora_Question_Pair_Similarity_icon.png
+title: Quora Question Pair Similarity
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-07-01
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Identify which questions asked on Quora are duplicates of questions that have already been asked.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
