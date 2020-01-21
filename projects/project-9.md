@@ -5,7 +5,7 @@ image: images/Personalized_Cancer_Diagnosis_icon.png
 title: Personalized Cancer Diagnosis
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-25-17
+date: 2019-05-17
 labels:
   - Machine Learning
 summary: Classify the given Genetic variations/mutations based on evidence from text-based clinical literature.
