@@ -63,8 +63,8 @@
   "education": [
     {
       "institution": "Brainware Group of Institutions",
-      "area": "Computer Science Engineering(expected Spring, 2018)",
-      "studyType": "B.Tech"
+      "area": "Computer Science Engineering",
+      "studyType": "B.Tech",
       "startDate": "2014-08-01",
       "endDate": "2018-05-26",
       "gpa": "",
@@ -74,8 +74,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Brainware Group of Institutions",
+      "position": "sdsd",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
