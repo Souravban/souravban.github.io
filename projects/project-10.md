@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Data_Visualization_with_Haberman_Dataset_icon.png
+title: Data Visualization with Haberman Dataset
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-01-17
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: To predict whether a patient will survive after 5 years or not based upon the patient's medical hisotry.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
