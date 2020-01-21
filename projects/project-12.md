@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/New_York_City_Taxi_Demand_Prediction_icon.png
+title: New York City Taxi Demand Prediction
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-05-23
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: To find number of pickups, given location cordinates (latitude and longitude) and time, in the query reigion and surrounding regions.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
