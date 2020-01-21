@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/Self_Driving_Car_icon.png
+title: Self Driving Car
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-07-31
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Machine Learning
+  - Deep Learning
+  - Internet of things
+summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
