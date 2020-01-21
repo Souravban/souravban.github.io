@@ -8,6 +8,7 @@ permalink: projects/cotton
 date: 2019-05-13
 labels:
   - Machine Learning
+  - Deep Learning
 summary: Building various LSTM architectures on IMDB Dataset.
 ---
 
