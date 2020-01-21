@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Netflix_Movie_Recommedation_System_icon.png
+title: Netflix Movie Recommedation System
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-06-17
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Predict the rating that a user would give to a movie that is not yet rated.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
