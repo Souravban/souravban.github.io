@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Applying_LSTM_on_IMDB_Dataset_ico.png
+image: images/Applying_LSTM_on_IMDB_Dataset_icon.png
 title: Applying LSTM on IMDB Dataset
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
