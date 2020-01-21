@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/LSTM_on_Donors_Choose_Dataset.png
+title: LSTM on Donors Choose Dataset
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-08-13
 labels:
   - Machine Learning
   - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the metadata.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
