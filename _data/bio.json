@@ -46,26 +46,17 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Language",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jupyter Notebbok",
       ]
     }
   ],
