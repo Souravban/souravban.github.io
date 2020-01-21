@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Building_Various_MLP_and_CNN_Architectures-on-MNIST_Dataset_icon.png
-title: Building_Various_MLP_and_CNN_Architectures_on_MNIST
+title: Building Various MLP and CNN Architectures on MNIST
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-05
