@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Khai-Khai-A-Snake-Game.jpg
+title: Khai-Khai - A Snake Game
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2016-05-30
 labels:
-  - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+  - Visual Basic 6.0
+  - Snake Game
+summary: Khai-Khai is a simple yet very interesting game inspired by the classic Snake game.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
