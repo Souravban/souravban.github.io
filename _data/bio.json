@@ -81,13 +81,10 @@
   ],
   "work": [
     {
-      "company": "Document Image Classification on RVL-CDIP Dataset",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "<b>Ka</b>",
+      "summary": "<b>Document Image Classification on RVL-CDIP Dataset</b>",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multi-class Classification Problem or we can call it a Computer Vision task.",
+        "Tools used: Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Keras with Tensorflow backend, Jupyter Notebook, Tensorboard."
       ]
     },
     {
