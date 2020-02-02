@@ -66,7 +66,7 @@
       "name": "Toolsets",
       "level": "",
       "keywords": [
-        "Jupyter Notebbok",
+        "Jupyter Notebbok"
       ]
     }
   ],
@@ -93,7 +93,7 @@
         "Detection of different types of Toxic Comments and classify them in different classes like Toxic, Severe_Toxic, Obscene, Threat, Insult and Identity Hate. But a Single comment can be classified in multiple classes. So it is a Multilabel Classification Problem.",
         "Tools used: Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Jupyter Notebook, Keras with Tensorflow backend."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
