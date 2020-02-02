@@ -73,13 +73,9 @@
   "education": [
     {
       "institution": "B.Tech in Computer Science Engineering",
-      "area": " ",
-      "studyType": "Brainware Group of Institutions",
+      "studyType": "Brainware Group of Institution",
       "startDate": "2014",
-      "endDate": "2018",
-      "gpa": " ",
-      "courses": [
-      ]
+      "endDate": "2018"
     }
   ],
   "Personal Projects": [
