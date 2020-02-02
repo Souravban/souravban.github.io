@@ -79,19 +79,29 @@
       "endDate": "2018"
     }
   ],
-  "Personal Projects": [
+  "work": [
     {
-      "company": "Document Image Classification on RVL-CDIP Dataset",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multi-class Classification Problem or we can call it a Computer Vision task.",
-        "Tools used: Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Keras with Tensorflow backend, Jupyter Notebook, Tensorboard."
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "Toxic Comment Classification Challenge",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
       "highlights": [
-        "Detection of different types of Toxic Comments and classify them in different classes like Toxic, Severe_Toxic, Obscene, Threat, Insult and Identity Hate. But a Single comment can be classified in multiple classes. So it is a Multilabel Classification Problem.",
-        "Tools used: Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Jupyter Notebook, Keras with Tensorflow backend."
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
