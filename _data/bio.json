@@ -91,15 +91,10 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Toxic Comment Classification Challenge",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Detection of different types of Toxic Comments and classify them in different classes like Toxic, Severe_Toxic, Obscene, Threat, Insult and Identity Hate. But a Single comment can be classified in multiple classes. So it is a Multilabel Classification Problem.",
+        "Tools used: Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Jupyter Notebook, Keras with Tensorflow backend,"
       ]
     }
   ],
