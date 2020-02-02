@@ -78,11 +78,9 @@
       "startDate": "2014-08-01",
       "endDate": "2018-05-26",
       "gpa": "",
-      "courses": [
-      ]
     }
   ],
-  "work": [
+  "Personal Projects": [
     {
       "company": "Document Image Classification on RVL-CDIP Dataset",
       "highlights": [
