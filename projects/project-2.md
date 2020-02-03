@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Toxic_Comment_Classification_icon.png
+image: images/Toxic_Comment_Classification_Challenge_icon.png
 title: Toxic Comment Classification Challenge
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
