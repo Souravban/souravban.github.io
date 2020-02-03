@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Titanic_Survival_Prediction_icon.png
+title: Titanic Survival Prediction
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-04-25
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Predicting what sorts of people were more likely to survive on Titanic.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
