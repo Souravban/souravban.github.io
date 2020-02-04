@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Netflix_Movie_Recommedation_System_icon.png
-title: Netflix Movie Recommedation System
+title: Netflix Movie Recommendation System
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-17
