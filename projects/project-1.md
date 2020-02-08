@@ -34,10 +34,9 @@ The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) datase
 15. resume
 16. memo
 
-<b>Problem Statement</b> : 
-                          Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multiclass Classification Problem or we can call it a Computer Vision task.
+<b>Problem Statement</b> : Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multiclass Classification Problem or we can call it a Computer Vision task.
 
-<b>Source</b> : Source : http://www.cs.cmu.edu/~aharley/rvl-cdip/ (http://www.cs.cmu.edu/~aharley/rvl-cdip/)
+<b>Source</b> : http://www.cs.cmu.edu/~aharley/rvl-cdip/
 A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval," in ICDAR, 2015
 
 <b>Usage</b> : This dataset is a subset of the IIT-CDIP Test Collection 1.0 [1], which is publicly available here. The file structure of this dataset is the same as in the IIT collection, so it is possible to refer to that dataset for OCR and additional metadata. The IIT-CDIP dataset is itself a subset of the Legacy Tobacco Document Library [2].
