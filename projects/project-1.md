@@ -34,6 +34,7 @@ The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) datase
 15. resume
 16. memo
 
+<b>Problem Statement</b> : Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multiclass Classification Problem or we can call it a Computer Vision task.
 
 
 
