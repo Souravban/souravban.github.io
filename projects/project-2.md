@@ -21,14 +21,15 @@ The Conversation AI team, a research initiative founded by Jigsaw and Google (bo
 
 In this Case Study, we are challenged to build a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models. You’ll be using a dataset of comments from Wikipedia’s talk page edits. Improvements to the current model will hopefully help online discussion become more productive and respectful.
 
+<b>Problem Statement</b> : Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multiclass Classification Problem or we can call it a Computer Vision task.
 
+<b>Source</b> : [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview)
 
+<b>Usage</b> : The dataset under CC0, with the underlying comment text being governed by Wikipedia's CC-SA-3.0
 
+<b>Real-world/Business Objectives and Constraints</b> : 
+1. The cost of a mis-classification can be very high.
+2. No strict latency concerns.
+3. Determining a comment toxic or not is highly subjective from person to person.
 
-
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+To learn more please visit : [Here](https://github.com/Souravban/Toxic-Comment-Classification-Challenge)
