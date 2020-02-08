@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Document_Image_Classification_icon.png
 title: Image Classification Decoded
-permalink: projects/micromouse
+permalink: projects/Image Classification Decoded
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-23
 labels:
