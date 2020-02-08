@@ -13,7 +13,7 @@ labels:
 summary: Detection of Different Types of Toxic Comments.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="../images/Image_Classification_Decoded_Banner.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
