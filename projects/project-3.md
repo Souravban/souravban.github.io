@@ -19,8 +19,6 @@ A Self-Driving Car, also known as an Autonomous Vehicle (AV), connected and auto
 
 <b>Problem Statement</b> : Here we are building as well as analysing a Self Driving Car. It will help us to understand how driverless vehicles can impact humanity.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
-
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. There is very strict latency concerns.
