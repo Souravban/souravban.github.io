@@ -19,39 +19,41 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
 
-<b>Data Description</b> : url: contains the url of the restaurant in the zomato website
+<b>Data Description</b> : 
 
-<b>a. address</b> : contains the address of the restaurant in Bengaluru
+<b>a. url</b> : contains the url of the restaurant in the zomato website
 
-<b>b. name</b> : contains the name of the restaurant
+<b>b. address</b> : contains the address of the restaurant in Bengaluru
 
-<b>c. online_order</b> : whether online ordering is available in the restaurant or not
+<b>c. name</b> : contains the name of the restaurant
 
-<b>d. book_table</b> : table book option available or not
+<b>d. online_order</b> : whether online ordering is available in the restaurant or not
 
-<b>e. rate</b> : contains the overall rating of the restaurant out of 5
+<b>e. book_table</b> : table book option available or not
 
-<b>f. votes</b> : contains total number of rating for the restaurant as of the above mentioned date
+<b>f. rate</b> : contains the overall rating of the restaurant out of 5
 
-<b>g. phone</b> : contains the phone number of the restaurant
+<b>g. votes</b> : contains total number of rating for the restaurant as of the above mentioned date
 
-<b>h. location</b> : contains the neighborhood in which the restaurant is located
+<b>h. phone</b> : contains the phone number of the restaurant
 
-<b>i. rest_type</b> : restaurant type
+<b>i. location</b> : contains the neighborhood in which the restaurant is located
 
-<b>j. dish_liked</b> : dishes people liked in the restaurant
+<b>j. rest_type</b> : restaurant type
 
-<b>k. cuisines</b> : food styles, separated by comma
+<b>k. dish_liked</b> : dishes people liked in the restaurant
 
-<b>l. approx_cost(for two people)</b> : contains the approximate cost for meal for two people
+<b>l. cuisines</b> : food styles, separated by comma
 
-<b>m. reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
+<b>m. approx_cost(for two people)</b> : contains the approximate cost for meal for two people
 
-<b>n. menu_item</b> : contains list of menus available in the restaurant
+<b>n. reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
 
-<b>o. listed_in(type)</b> : type of meal
+<b>o. menu_item</b> : contains list of menus available in the restaurant
 
-<b>p. listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>p. listed_in(type)</b> : type of meal
+
+<b>q. listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
