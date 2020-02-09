@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/LSTM_on_Donors_Choose_Dataset.png
 title: LSTM on Donors Choose Dataset
-permalink: projects/cotton
+permalink: projects/Donor
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-13
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: Predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the metadata.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/LSTM_on_Donors_Choose_Dataset_Banner.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
