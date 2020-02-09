@@ -35,7 +35,7 @@ look
 The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
  lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
  only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
+ looks like it has been like that for decades.There is a door going west from here. You see a candle
  on the floor. You see a match on the floor.
 
 pickup candle
