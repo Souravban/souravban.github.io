@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Data_Visualization_with_Haberman_Dataset_icon.png
 title: Data Visualization with Haberman Dataset
-permalink: projects/hab
+permalink: projects/Haberman
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
