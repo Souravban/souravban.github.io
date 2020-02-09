@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Zomato_Restaurant_Analysis_icon.png
 title: Zomato Restaurant Analysis
-permalink: projects/cotton
+permalink: projects/Zomato
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-06
 labels:
@@ -11,7 +11,7 @@ labels:
 summary: In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/Zomato_Restaurant_Analysis_Banner.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
