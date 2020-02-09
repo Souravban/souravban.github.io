@@ -21,39 +21,39 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>Data Description</b> : 
 
-<b>a. url</b> : contains the url of the restaurant in the zomato website
+<b>url</b> : contains the url of the restaurant in the zomato website
 
-<b>b. address</b> : contains the address of the restaurant in Bengaluru
+<b>address</b> : contains the address of the restaurant in Bengaluru
 
-<b>c. name</b> : contains the name of the restaurant
+<b>name</b> : contains the name of the restaurant
 
-<b>d. online_order</b> : whether online ordering is available in the restaurant or not
+<b>online_order</b> : whether online ordering is available in the restaurant or not
 
-<b>e. book_table</b> : table book option available or not
+<b>book_table</b> : table book option available or not
 
-<b>f. rate</b> : contains the overall rating of the restaurant out of 5
+<b>rate</b> : contains the overall rating of the restaurant out of 5
 
-<b>g. votes</b> : contains total number of rating for the restaurant as of the above mentioned date
+<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
 
-<b>h. phone</b> : contains the phone number of the restaurant
+<b>phone</b> : contains the phone number of the restaurant
 
-<b>i. location</b> : contains the neighborhood in which the restaurant is located
+<b>location</b> : contains the neighborhood in which the restaurant is located
 
-<b>j. rest_type</b> : restaurant type
+<b>rest_type</b> : restaurant type
 
-<b>k. dish_liked</b> : dishes people liked in the restaurant
+<b>dish_liked</b> : dishes people liked in the restaurant
 
-<b>l. cuisines</b> : food styles, separated by comma
+<b>cuisines</b> : food styles, separated by comma
 
-<b>m. approx_cost(for two people)</b> : contains the approximate cost for meal for two people
+<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
 
-<b>n. reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
+<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
 
-<b>o. menu_item</b> : contains list of menus available in the restaurant
+<b>menu_item</b> : contains list of menus available in the restaurant
 
-<b>p. listed_in(type)</b> : type of meal
+<b>listed_in(type)</b> : type of meal
 
-<b>q. listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
