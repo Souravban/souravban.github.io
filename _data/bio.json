@@ -29,27 +29,27 @@
   },
   "interests": [
     {
-      "name": "<p><b>Machine Learning</b>",</p>
+      "name": "<p><b>Machine Learning</b>",
       "keywords": [
       ]
     },
     {
-      "name": "<b>Deep Learning</b>",
+      "name": "<p><b>Deep Learning</b>",
       "keywords": [
       ]
     },
     {
-      "name": "<b>Computer Vision</b>",
+      "name": "<p><b>Computer Vision</b>",
       "keywords": [
       ]
     },
     {
-      "name": "<b>Natural Language Processing</b>",
+      "name": "<p><b>Natural Language Processing</b>",
       "keywords": [
       ]
     },
     {
-      "name": "<b>Data Science</b>",
+      "name": "<p><b>Data Science</b></p>",
       "keywords": [
       ]
     }
