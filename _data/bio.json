@@ -27,7 +27,7 @@
       }
     ]
   },
-  "<b>Interests</b>": [
+  "interests": [
     {
       "name": "<b>Machine Learning</b>",
       "keywords": [
