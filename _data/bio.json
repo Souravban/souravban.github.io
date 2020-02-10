@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Sourav Banerjee",
-    "label": "Computer Science Engineer",
+    "name": "<b>Sourav Banerjee</b>",
+    "label": "<b>Computer Science Engineer</b>",
     "picture": "https://souravban.github.io/images/my_avatar.png",
     "email": "souravbanerjee216@gmail.com",
     "phone": "",
     "website": "https://souravban.github.io",
-    "summary": "<center><i>Trying to make sense of the Data</i></center>",
+    "summary": "<center><i><b>Trying to make sense of the Data</b></i></center>",
     "location": {
       "address": "",
       "postalCode": "700065,",
