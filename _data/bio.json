@@ -29,27 +29,27 @@
   },
   "interests": [
     {
-      "name": "Machine Learning",
+      "name": "<b>Machine Learning</b>",
       "keywords": [
       ]
     },
     {
-      "name": "Deep Learning",
+      "name": "<b>Deep Learning</b>",
       "keywords": [
       ]
     },
     {
-      "name": "Data Science",
+      "name": "<b>Data Science</b>",
       "keywords": [
       ]
     },
     {
-      "name": "NLP",
+      "name": "<b>NLP</b>",
       "keywords": [
       ]
     },
     {
-      "name": "Computer Vision",
+      "name": "<b>Computer Vision</b>",
       "keywords": [
       ]
     }
