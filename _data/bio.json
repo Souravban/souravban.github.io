@@ -27,7 +27,7 @@
       }
     ]
   },
-  "interests": [
+  "<b>Interests</b>": [
     {
       "name": "<b>Machine Learning</b>",
       "keywords": [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "<b>NLP</b>",
+      "name": "<b>Natural Language Processing</b>",
       "keywords": [
       ]
     },
