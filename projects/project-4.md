@@ -60,4 +60,22 @@ P.S - A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or
 2. No strict latency concerns.
 3. It will help everyone to unterstand the insights of large scale online businesses.
 
-To learn more please visit : [Here](https://github.com/Souravban/Zomato-Restaurant-Analysis)
+To learn more please visit : 
+
+1. [TSNE](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-TSNE)
+
+2. [KNN](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-KNN)
+
+3. [Naive Bayes](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Naive-Bayes)
+
+4. [Logistic Regression](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Logistic-Regression)
+
+5. [Support Vectors Machines](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Support-Vector-Machines)
+
+6. [Decision Trees](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Decision-Trees)
+
+7. [Random Forest](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Random-Forest)
+
+8. [Clustering](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Clustering)
+
+9. [Truncated-SVD](https://github.com/Souravban/Amazon-Fine-Food-Reviews-Analysis-Truncated-SVD)
