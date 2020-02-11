@@ -29,13 +29,13 @@ Amazon Fine Food Review dataset consists of reviews of fine foods from amazon. T
 
 <b>Attribute Information</b> :
 
-<b>Id</b>
+<b>Id</b> - serial number
 
 <b>ProductId</b> - unique identifier for the product
 
 <b>UserId</b> - unqiue identifier for the user
 
-<b>ProfileName</b>
+<b>ProfileName</b> - name which is used by the user
 
 <b>HelpfulnessNumerator</b> - number of users who found the review helpful
 
