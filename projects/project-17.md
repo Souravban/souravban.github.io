@@ -103,8 +103,6 @@ Readings are divided into a window of 2.56 seconds with 50% overlapping. Acceler
 
 <b>Problem Statement</b> : In this challenge, Given a new datapoint we have to predict the Activity.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
-
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. There is strict latency concerns.
