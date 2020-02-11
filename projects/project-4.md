@@ -15,51 +15,49 @@ summary: Given a review, determine whether the review is positive or negative.
 
 <img class="ui image" src="../images/Amazon_Fine_Food_Review_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Amazon Fine Food Review dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+<br>Number of reviews : 568,454
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<br>Number of users : 256,059
 
-<b>Data Description</b> : 
+<br>Number of products : 74,258
 
-<b>url</b> : contains the url of the restaurant in the zomato website
+<br>Timespan : Oct 1999 - Oct 2012
 
-<b>address</b> : contains the address of the restaurant in Bengaluru
+<br>Number of Attributes/Columns in data : 10 
 
-<b>name</b> : contains the name of the restaurant
+<br>Attribute Information:
 
-<b>online_order</b> : whether online ordering is available in the restaurant or not
+<br>Id</br>
 
-<b>book_table</b> : table book option available or not
+<br>ProductId</br> - unique identifier for the product
 
-<b>rate</b> : contains the overall rating of the restaurant out of 5
+<br>UserId</br> - unqiue identifier for the user
 
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
+<br>ProfileName</br>
 
-<b>phone</b> : contains the phone number of the restaurant
+<br>HelpfulnessNumerator</br> - number of users who found the review helpful
 
-<b>location</b> : contains the neighborhood in which the restaurant is located
+<br>HelpfulnessDenominator</br> - number of users who indicated whether they found the review helpful or not
 
-<b>rest_type</b> : restaurant type
+<br>Score</br> - rating between 1 and 5
 
-<b>dish_liked</b> : dishes people liked in the restaurant
+<br>Time</br> - timestamp for the review
 
-<b>cuisines</b> : food styles, separated by comma
+<br>Summary</br> - brief summary of the review
 
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
+<br>Text</br> - text of the review
 
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
+<b>Problem Statement</b> : In this challenge, Given a review, we are determining whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
-<b>menu_item</b> : contains list of menus available in the restaurant
+P.S - A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
 
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>Source</b> : [https://www.kaggle.com/snap/amazon-fine-food-reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+3. It will help everyone to unterstand the insights of large scale online businesses.
 
 To learn more please visit : [Here](https://github.com/Souravban/Zomato-Restaurant-Analysis)
