@@ -8,56 +8,20 @@ permalink: projects/Amazon_Fashion
 date: 2019-07-27
 labels:
   - Machine Learning
-summary: Recommendation of similar Apprel items/products fro Amazon fashion products.
+summary: Recommendation of similar Apprel items/products from Amazon fashion products.
 ---
 
 <img class="ui image" src="../images/Amazon_Fashion_Discovery_Engine_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Amazon Fashion is your ultimate destination for head-to-toe style. From all-star athletic brands like adidas and Nike to designers such as kate spade new york and Calvin Klein, Amazon Fashion has something for every occasion and style. In true Amazon spirit, ordering, trying on, and sending back pieces is a breeze, thanks to free shipping and free returns on eligible items. You can search the site for specific styles or browse the curated collections of our favorite shoes, luggage, dresses, and more. Whether you’re looking for the latest, in-demand on trend pieces or wardrobe staples and basics, Amazon Fashion makes it possible to shop efficiently and stylishly. Our roster of brands includes favorites like Van’s, Michael Kors, New Balance, Tommy Hilfiger, Sketchers, Crocs, and hundreds more. Within these brands, you’ll find a range of categories such as jeans, boots, and jewelry plus great gift ideas for everyone on your list. Amazon Fashion offers stylish finds for everybody. In addition to clothes, shoes, and accessories for men and women, there are also choices for the littlest members of your family. Amazon Fashion has everything from kid’s backpacks to snow boots, plus everyday essentials for baby. And with shops dedicated to plus, petite, and big and tall sizes, Amazon Fashion ensures every shopper can put their fashionable foot forward. At Amazon Fashion, we’re committed to helping shoppers be their most stylish selves—even after their packaged has been delivered.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+<b>Problem Statement</b> : In this challenge, we are Recommending similar Apprel items/products from Amazon fashion products.
 
 <b>Source</b> : [https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg](https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg)
 
-<b>Data Description</b> : 
-
-<b>url</b> : contains the url of the restaurant in the zomato website
-
-<b>address</b> : contains the address of the restaurant in Bengaluru
-
-<b>name</b> : contains the name of the restaurant
-
-<b>online_order</b> : whether online ordering is available in the restaurant or not
-
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restaurant
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
-
 <b>Real-world/Business Objectives and Constraints</b> : 
-1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+1. The cost of a mis-classification may be high or may be low depending upon the situation.
+2. There is strict latency concerns.
+3. It will help everyone to unterstand the insights of a Recommendation systems.
 
 To learn more please visit : [Here](https://github.com/Souravban/Amazon-Fashion-Discovery-Engine)
