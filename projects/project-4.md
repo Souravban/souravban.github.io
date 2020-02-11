@@ -17,17 +17,17 @@ summary: Given a review, determine whether the review is positive or negative.
 
 Amazon Fine Food Review dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories.
 
-<br>Number of reviews : 568,454
+<br>Number of reviews</br> : 568,454
 
-<br>Number of users : 256,059
+<br>Number of users</br> : 256,059
 
-<br>Number of products : 74,258
+<br>Number of products</br> : 74,258
 
-<br>Timespan : Oct 1999 - Oct 2012
+<br>Timespan</br> : Oct 1999 - Oct 2012
 
-<br>Number of Attributes/Columns in data : 10 
+<br>Number of Attributes/Columns in data</br> : 10 
 
-<br>Attribute Information:
+<br>Attribute Information</br> :
 
 <br>Id</br>
 
