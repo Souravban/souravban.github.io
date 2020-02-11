@@ -17,37 +17,37 @@ summary: Given a review, determine whether the review is positive or negative.
 
 Amazon Fine Food Review dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories.
 
-<br>Number of reviews</br> : 568,454
+<b>Number of reviews</b> : 568,454
 
-<br>Number of users</br> : 256,059
+<b>Number of users</b> : 256,059
 
-<br>Number of products</br> : 74,258
+<b>Number of products</b> : 74,258
 
-<br>Timespan</br> : Oct 1999 - Oct 2012
+<b>Timespan</b> : Oct 1999 - Oct 2012
 
-<br>Number of Attributes/Columns in data</br> : 10 
+<b>Number of Attributes/Columns in data</b> : 10 
 
-<br>Attribute Information</br> :
+<b>Attribute Information</b> :
 
-<br>Id</br>
+<b>Id</b>
 
-<br>ProductId</br> - unique identifier for the product
+<b>ProductId</b> - unique identifier for the product
 
-<br>UserId</br> - unqiue identifier for the user
+<b>UserId</b> - unqiue identifier for the user
 
-<br>ProfileName</br>
+<b>ProfileName</b>
 
-<br>HelpfulnessNumerator</br> - number of users who found the review helpful
+<b>HelpfulnessNumerator</b> - number of users who found the review helpful
 
-<br>HelpfulnessDenominator</br> - number of users who indicated whether they found the review helpful or not
+<b>HelpfulnessDenominator</b> - number of users who indicated whether they found the review helpful or not
 
-<br>Score</br> - rating between 1 and 5
+<b>Score</b> - rating between 1 and 5
 
-<br>Time</br> - timestamp for the review
+<b>Time</b> - timestamp for the review
 
-<br>Summary</br> - brief summary of the review
+<b>Summary</b> - brief summary of the review
 
-<br>Text</br> - text of the review
+<b>Text</b> - text of the review
 
 <b>Problem Statement</b> : In this challenge, Given a review, we are determining whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
