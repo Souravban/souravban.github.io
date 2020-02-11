@@ -31,18 +31,12 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 
 ### Feature names
 
-<br>1. These sensor signals are preprocessed by applying noise filters and then sampled in fixed-width windows(sliding windows) of 2.56 seconds each with 50% overlap. ie., each window has 128 readings.
-
+<br>1. These sensor signals are preprocessed by applying noise filters and then sampled in fixed-width windows (sliding windows) of 2.56 seconds each with 50% overlap. ie., each window has 128 readings.
 <br>2. From Each window, a feature vector was obtianed by calculating variables from the time and frequency domain. In our dataset, each datapoint represents a window with different readings.
-
-<br>3. The accelertion signal was saperated into Body and Gravity acceleration signals(___tBodyAcc-XYZ___ and ___tGravityAcc-XYZ___) using some low pass filter with corner frequecy of 0.3Hz.
-
+<br>3. The accelertion signal was saperated into Body and Gravity acceleration signals (___tBodyAcc-XYZ___ and ___tGravityAcc-XYZ___) using some low pass filter with corner frequecy of 0.3Hz.
 <br>4. After that, the body linear acceleration and angular velocity were derived in time to obtian _jerk signals_ (___tBodyAccJerk-XYZ___ and ___tBodyGyroJerk-XYZ___). 
-
 <br>5. The magnitude of these 3-dimensional signals were calculated using the Euclidian norm. This magnitudes are represented as features with names like _tBodyAccMag_, _tGravityAccMag_, _tBodyAccJerkMag_, _tBodyGyroMag_ and _tBodyGyroJerkMag_.
-
 <br>6. Finally, We've got frequency domain signals from some of the available signals by applying a FFT (Fast Fourier Transform). These signals obtained were labeled with ___prefix 'f'___ just like original signals with ___prefix 't'___. These signals are labeled as ___fBodyAcc-XYZ___, ___fBodyGyroMag___ etc.,.
-
 <br>7. These are the signals that we got so far.
 
 	+ tBodyAcc-XYZ
@@ -62,7 +56,6 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 	+ fBodyAccJerkMag
 	+ fBodyGyroMag
 	+ fBodyGyroJerkMag
-
 <br>8. We can esitmate some set of variables from the above signals. ie., We will estimate the following properties on each and every signal that we recoreded so far.
 
 	+ ___mean()___: Mean value
@@ -82,7 +75,6 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 	+ ___kurtosis()___: kurtosis of the frequency domain signal 
 	+ ___bandsEnergy()___: Energy of a frequency interval within the 64 bins of the FFT of each window.
 	+ ___angle()___: Angle between to vectors.
-
 <br>9. We can obtain some other vectors by taking the average of signals in a single window sample. These are used on the angle() variable
 
 	+ gravityMean
@@ -91,7 +83,7 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 	+ tBodyGyroMean
 	+ tBodyGyroJerkMean
 
-Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities : 
+Accelerometer and Gyroscope readings are taken from 30 volunteers (referred as subjects) while performing the following 6 Activities : 
 
 	+ Walking as 1
 	+ WalkingUpstairs as 2
