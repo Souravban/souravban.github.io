@@ -61,7 +61,7 @@ By using the sensors (Gyroscope and accelerometer) in a smartphone, they have ca
 	+ fBodyAccMag
 	+ fBodyAccJerkMag
 	+ fBodyGyroMag
-	+ fBodyGyroJerkMag<br>
+	+ fBodyGyroJerkMag
 	
 8. We can esitmate some set of variables from the above signals. ie., We will estimate the following properties on each and every signal that we recoreded so far.
 
@@ -81,7 +81,7 @@ By using the sensors (Gyroscope and accelerometer) in a smartphone, they have ca
 	+ ___skewness()___: skewness of the frequency domain signal 
 	+ ___kurtosis()___: kurtosis of the frequency domain signal 
 	+ ___bandsEnergy()___: Energy of a frequency interval within the 64 bins of the FFT of each window.
-	+ ___angle()___: Angle between to vectors.<br>
+	+ ___angle()___: Angle between to vectors.
 
 9. We can obtain some other vectors by taking the average of signals in a single window sample. These are used on the angle() variable
 
