@@ -17,7 +17,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<b>Source</b> : [https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg](https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg)
 
 <b>Data Description</b> : 
 
@@ -59,3 +59,5 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 1. The cost of a mis-classification can be high.
 2. No strict latency concerns.
 3. It will help everyone to unterstand the insights of a restaurant business.
+
+To learn more please visit : [Here](https://github.com/Souravban/Amazon-Fashion-Discovery-Engine)
