@@ -18,7 +18,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<b>Source</b> : [https://s3.amazonaws.com/img-datasets/mnist.npz](https://s3.amazonaws.com/img-datasets/mnist.npz)
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
