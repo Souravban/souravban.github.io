@@ -28,7 +28,7 @@ In this Case Study, we are challenged to build a multi-headed model that’s cap
 <b>Usage</b> : The dataset under CC0, with the underlying comment text being governed by Wikipedia's CC-SA-3.0
 
 <b>Real-world/Business Objectives and Constraints</b> : 
-1. The cost of a mis-classification can be very high.
+1. The cost of mis-classification can be very high.
 2. No strict latency concerns.
 3. Determining a comment toxic or not is highly subjective from person to person.
 
