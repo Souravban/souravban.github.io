@@ -13,51 +13,17 @@ summary: Identify whether a given piece of file/software is a Malware.
 
 <img class="ui image" src="../images/Microsoft_Malware_Detection_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Malware (a portmanteau for malicious software) is any software intentionally designed to cause damage to a computer, server, client, or computer network (by contrast, software that causes unintentional harm due to some deficiency is typically described as a software bug). A wide variety of types of malware exist, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, and scareware. Programs are also considered malware if they secretly act against the interests of the computer user. For example, at one point Sony music Compact discs silently installed a rootkit on purchasers' computers with the intention of preventing illicit copying, but which also reported on users' listening habits, and unintentionally created extra security vulnerabilities.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+Microsoft has been very active in building anti-malware products over the years and it runs it’s anti-malware utilities over 150 million computers around the world. This generates tens of millions of daily data points to be analyzed as potential malware. In order to be effective in analyzing and classifying such large amounts of data, we need to be able to group them into groups and identify their respective families. This dataset provided by Microsoft contains about 9 classes of malware.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<b>Problem Statement</b> : In the past few years, the malware industry has grown very rapidly that, the syndicates invest heavily in technologies to evade traditional protection, forcing the anti-malware groups/communities to build more robust softwares to detect and terminate these attacks. The major part of protecting a computer system from a malware attack is to identify whether a given piece of file/software is a malware.
 
-<b>Data Description</b> : 
-
-<b>url</b> : contains the url of the restaurant in the zomato website
-
-<b>address</b> : contains the address of the restaurant in Bengaluru
-
-<b>name</b> : contains the name of the restaurant
-
-<b>online_order</b> : whether online ordering is available in the restaurant or not
-
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restauran
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>Source</b> : [https://www.kaggle.com/c/malware-classification/data](https://www.kaggle.com/c/malware-classification/data)
 
 <b>Real-world/Business Objectives and Constraints</b> : 
-1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+1. Minimize multi-class error.
+2. Multi-class probability estimates.
+3. Malware detection should not take hours and block the user's computer. It should fininsh in a few seconds or a minute.
 
 To learn more please visit : [Here](https://github.com/Souravban/Microsoft-Malware-Detection)
