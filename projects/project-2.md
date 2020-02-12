@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Toxic_Comment_Classification_Challenge_icon.png
 title: Toxic Comment Classification Challenge
-permalink: projects/vacay
+permalink: projects/Toxic_Comment_Classification
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-10
 labels:
