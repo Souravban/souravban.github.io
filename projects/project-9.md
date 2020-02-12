@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Personalized_Cancer_Diagnosis_icon.png
 title: Personalized Cancer Diagnosis
-permalink: projects/cotton
+permalink: projects/Cancer
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-17
 labels:
@@ -11,50 +11,31 @@ labels:
 summary: Classify the given Genetic variations/mutations based on evidence from text-based clinical literature.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/Personalized_Cancer_Diagnosis_Banner.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Once sequenced, a cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passengers). Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
 
-To give you a flavor of the game, here is an excerpt from one run:
+For this competition MSKCC is making available an expert-annotated knowledge base where world-class researchers and oncologists have manually annotated thousands of mutations. We need your help to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
 
-<hr>
+<b>Problem Statement</b> : In this challenge, we are trying to classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<b>Source</b> : [https://www.kaggle.com/c/msk-redefining-cancer-treatment/data](https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<b>Data Description</b> : 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+We have two data files : one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that human experts/pathologists use to classify the genetic mutations.
 
-pickup candle
-- you are now carrying the candle -
+Both these data files are have a common column called ID
 
-pickup match
-- you are now carrying the match -
+Data file's information:
+training_variants (ID , Gene, Variations, Class)
+training_text (ID, Text)
 
-light match candle
 
-The candle is now lit. It illuminates everything in the room.
+<b>Real-world/Business Objectives and Constraints</b> : 
+1. No low-latency requirement.
+2. Interpretability is important.
+3. Errors can be very costly.
+4. Probability of a data-point belonging to each class is needed.
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+To learn more please visit : [Here](https://github.com/Souravban/Personalized-Cancer-Diagnosis)
