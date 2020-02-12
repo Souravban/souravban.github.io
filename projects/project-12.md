@@ -24,14 +24,13 @@ The SHL program will allow livery vehicle owners to license and outfit their veh
 
 In the given notebook we are considering only the yellow taxis for the time period between Jan - Mar 2015 & Jan - Mar 2016
 
-<b>Problem Statement</b> : In this challenge, our task is to find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.
+<b>Problem Statement</b> : In this challenge, our task is to find number of pickups, given location cordinates (latitude and longitude) and time, in the query reigion and surrounding regions.
 
 <b>Source</b> : [https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 <b>Data Description</b> : 
 
-
-
+<img class="ui image" src="../images/nyc_taxi_information.png">
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
