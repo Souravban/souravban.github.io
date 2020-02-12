@@ -13,51 +13,27 @@ summary: Suggest the tags based on the content that was there in the question po
 
 <img class="ui image" src="../images/Stack_Overflow_Tag_Prediction_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers. Stack Overflow is something which every programmer use one way or another. Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers. It features questions and answers on a wide range of topics in computer programming. The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg. As of April 2014 Stack Overflow has over 4,000,000 registered users, and it exceeded 10,000,000 questions in late August 2015. Based on the type of tags assigned to questions, the top eight most discussed topics on the site are: Java, JavaScript, C#, PHP, Android, jQuery, Python and HTML.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+<b>Problem Statement</b> : In this challenge, we are suggesting the tags based on the content that was there in the question posted on Stack Overflow.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<b>Source</b> : [https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
 
 <b>Data Description</b> : 
 
-<b>url</b> : contains the url of the restaurant in the zomato website
+Dataset contains 6,034,195 rows. The columns in the table are:
 
-<b>address</b> : contains the address of the restaurant in Bengaluru
+<b>Id</b> - Unique identifier for each question
 
-<b>name</b> : contains the name of the restaurant
+<b>Title</b> - The question's title
 
-<b>online_order</b> : whether online ordering is available in the restaurant or not
+<b>Body</b> - The body of the question
 
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restaurant
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>Tags</b> - The tags associated with the question in a space-seperated format (all lowercase, should not contain tabs '\t' or ampersands '&')
 
 <b>Real-world/Business Objectives and Constraints</b> : 
-1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+1. Predict as many tags as possible with high precision and recall.
+2. Incorrect tags could impact customer experience on Stack Overflow.
+3. No strict latency constraints.
 
 To learn more please visit : [Here](https://github.com/Souravban/Stack-Overflow-Tag-Prediction)
