@@ -13,51 +13,25 @@ summary: Identify which questions asked on Quora are duplicates of questions tha
 
 <img class="ui image" src="../images/Quora_Question_Pair_Similarity_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+Over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+<b>Problem Statement</b> : In this challenge, we have to Identify which questions asked on Quora are duplicates of questions that have already been asked. This could be useful to instantly provide answers to questions that have already been answered. We are tasked with predicting whether a pair of questions are duplicates or not.
+
+<b>Source</b> : [https://www.kaggle.com/c/quora-question-pairs/data](https://www.kaggle.com/c/quora-question-pairs/data)
 
 <b>Data Description</b> : 
 
-<b>url</b> : contains the url of the restaurant in the zomato website
-
-<b>address</b> : contains the address of the restaurant in Bengaluru
-
-<b>name</b> : contains the name of the restaurant
-
-<b>online_order</b> : whether online ordering is available in the restaurant or not
-
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restaurant
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+Data will be in a file Train.csv <br>
+Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate <br>
+Size of Train.csv - 60MB <br>
+Number of rows in Train.csv = 404,290
 
 <b>Real-world/Business Objectives and Constraints</b> : 
-1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+1. The cost of a mis-classification can be very high.
+2. You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
+3. No strict latency concerns.
+4. Interpretability is partially important.
 
 To learn more please visit : [Here](https://github.com/Souravban/Quora-Question-Pair-Similarity)
