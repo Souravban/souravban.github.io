@@ -27,10 +27,9 @@ We have two data files : one conatins the information about the genetic mutation
 
 Both these data files are have a common column called ID
 
-Data file's information:
+Data file's information :
 training_variants (ID , Gene, Variations, Class)
 training_text (ID, Text)
-
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. No low-latency requirement.
