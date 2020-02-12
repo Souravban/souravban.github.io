@@ -13,7 +13,9 @@ summary: Given a directed social graph, we are predicting missing links to recom
 
 <img class="ui image" src="../images/Facebook_Friend_Recommendation_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. They are primarily used in commercial applications.
+
+Visible on your Facebook news feed, the People You May Know box displays users that Facebook thinks you may want to add as a friend. Facebook uses an algorithm to determine which users appear in this box, though users with whom you share mutual friends, went to the same school or previously worked are most likely to appear as a friend recommendation. If you do not ever want to add a particular person as a friend, you can click the "X" beside the person's name to permanently remove him as a friend recommendation.
 
 <b>Problem Statement</b> : In this challenge, Given a directed social graph, we have to predict missing links to recommend users (Link Prediction in graph)
 
@@ -23,6 +25,6 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. No low-latency requirement.
-2. Probability of prediction is useful to recommend ighest probability links.
+2. Probability of prediction is useful to recommend highest probability links.
 
 To learn more please visit : [Here](https://github.com/Souravban/Facebook-Friend-Recommendation)
