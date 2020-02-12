@@ -49,7 +49,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 <b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
 
-<b>menu_item</b> : contains list of menus available in the restaurant
+<b>menu_item</b> : contains list of menus available in the restauran
 
 <b>listed_in(type)</b> : type of meal
 
