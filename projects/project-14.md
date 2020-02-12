@@ -17,9 +17,8 @@ Malware (a portmanteau for malicious software) is any software intentionally des
 
 Microsoft has been very active in building anti-malware products over the years and it runs it’s anti-malware utilities over 150 million computers around the world. This generates tens of millions of daily data points to be analyzed as potential malware. In order to be effective in analyzing and classifying such large amounts of data, we need to be able to group them into groups and identify their respective families. This dataset provided by Microsoft contains about 9 classes of malware.
 
-Total train dataset consist of 200GB data out of which 50Gb of data is .bytes files and 150GB of data is .asm files:
-Lots of Data for a single-box/computer.
-There are total 10,868 .bytes files and 10,868 asm files total 21,736 files
+Total train dataset consist of 200GB data out of which 50Gb of data is .bytes files and 150GB of data is .asm files. Lots of Data for a single-box/computer. There are total 10,868 .bytes files and 10,868 asm files total 21,736 files.
+
 <b>Types of Malware</b> : Ramnit, Lollipop, Kelihos_ver3, Vundo, Simda, Tracur, Kelihos_ver1, Obfuscator.ACY, Gatak
 
 <b>Problem Statement</b> : In the past few years, the malware industry has grown very rapidly that, the syndicates invest heavily in technologies to evade traditional protection, forcing the anti-malware groups/communities to build more robust softwares to detect and terminate these attacks. The major part of protecting a computer system from a malware attack is to identify whether a given piece of file/software is a malware.
