@@ -24,7 +24,7 @@ A seismic image is produced from imaging the reflection coming from rock boundar
 
 There are several areas of the world where there are vast quantities of salt in the subsurface. One of the challenges of seismic imaging is to identify the part of subsurface which is salt. Salt has characteristics that makes it both simple and hard to identify. Salt density is usually 2.14 g/cc which is lower than most surrounding rocks. The seismic velocity of salt is 4.5 km/sec, which is usually faster than its surrounding rocks. This difference creates a sharp reflection at the salt-sediment interface. Usually salt is an amorphous rock without much internal structure. This means that there is typically not much reflectivity inside the salt, unless there are sediments trapped inside it. The unusually high seismic velocity of salt can create problems with seismic imaging.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+<b>Problem Statement</b> : In TGS Salt Identification Challenge, we are trying to find the more insights on how to find deposits of salt below the surface correctly.
 
 <b>Source</b> : [https://www.kaggle.com/c/tgs-salt-identification-challenge/data](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
