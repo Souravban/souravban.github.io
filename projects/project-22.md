@@ -1,62 +1,41 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
-permalink: projects/cotton
+image: images/TGS_Salt_Identification_Challenge_icon.png
+title: TGS Salt Identification
+permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2020-02-16
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+  - Deep Learning 
+summary: In TGS Salt Identification Challenge, we are trying to find the more insights on how to find deposits of salt below the surface correctly.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/TGS_Salt_Identification_Challenge_Banner.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Several areas of Earth with large accumulations of oil and gas also have huge deposits of salt below the surface. But unfortunately, knowing where large salt deposits are precisely is very difficult. Professional seismic imaging still requires expert human interpretation of salt bodies. This leads to very subjective, highly variable renderings. More alarmingly, it leads to potentially dangerous situations for oil and gas company drillers.
 
-To give you a flavor of the game, here is an excerpt from one run:
+To create the most accurate seismic images and 3D renderings, TGS (the world’s leading geoscience data company) is hoping Kaggle’s machine learning community will be able to build an algorithm that automatically and accurately identifies if a subsurface target is salt or not.
 
-<hr>
+Seismic data is collected using reflection seismology, or seismic reflection. The method requires a controlled seismic source of energy, such as compressed air or a seismic vibrator, and sensors record the reflection from rock interfaces within the subsurface. The recorded data is then processed to create a 3D view of earth’s interior. Reflection seismology is similar to X-ray, sonar and echolocation.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+A seismic image is produced from imaging the reflection coming from rock boundaries. The seismic image shows the boundaries between different rock types. In theory, the strength of reflection is directly proportional to the difference in the physical properties on either sides of the interface. While seismic images show rock boundaries, they don't say much about the rock themselves; some rocks are easy to identify while some are difficult.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+There are several areas of the world where there are vast quantities of salt in the subsurface. One of the challenges of seismic imaging is to identify the part of subsurface which is salt. Salt has characteristics that makes it both simple and hard to identify. Salt density is usually 2.14 g/cc which is lower than most surrounding rocks. The seismic velocity of salt is 4.5 km/sec, which is usually faster than its surrounding rocks. This difference creates a sharp reflection at the salt-sediment interface. Usually salt is an amorphous rock without much internal structure. This means that there is typically not much reflectivity inside the salt, unless there are sediments trapped inside it. The unusually high seismic velocity of salt can create problems with seismic imaging.
+<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+<b>Source</b> : [https://www.kaggle.com/c/tgs-salt-identification-challenge/data](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
-pickup candle
-- you are now carrying the candle -
+<b>Data Description</b> : 
 
-pickup match
-- you are now carrying the match -
+The data is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment. In addition to the seismic images, the depth of the imaged location is provided for each image. The goal of the competition is to segment regions that contain salt.
 
-light match candle
+<b>Real-world/Business Objectives and Constraints</b> : 
+1. The cost of a mis-classification very high.
+2. No strict latency concerns.
+3. It will help us to find deposits of salt below the surface correctly.
 
-The candle is now lit. It illuminates everything in the room.
+<h>Ongoing Work</h>
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+To learn more please visit : [Here](https://github.com/Souravban/)
