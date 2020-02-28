@@ -5,7 +5,7 @@ image: images/zomatohjhgjghjgjhgjg.gif
 title: Zomato
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-08-02
 labels:
   - Machine Learning
   - Deep Learning
