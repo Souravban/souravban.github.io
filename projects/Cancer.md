@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/cancer.gif
+title: Cancer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-08-02
 labels:
   - Machine Learning
   - Deep Learning
