@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/netflix.gif
+image: images/netflix2.gif
 title: Netflix
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
