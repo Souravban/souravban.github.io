@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/netflix.gif
+title: Netflix
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-08-01
 labels:
   - Machine Learning
   - Deep Learning
