@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/stack.gif
-title: Self Driving Car
+image: images/stack2.gif
+title: StackOverflow
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-01
