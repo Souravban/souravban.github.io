@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
+image: images/stack.gif
 title: Self Driving Car
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
