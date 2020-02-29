@@ -5,7 +5,7 @@ image: images/stack.gif
 title: StackOverflow
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-01
+date: 2019-08-02
 labels:
   - Machine Learning
   - Deep Learning
