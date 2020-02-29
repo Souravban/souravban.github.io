@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cancer.gif
+image: images/cancer2.gif
 title: Cancer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
