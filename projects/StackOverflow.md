@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/stack2.gif
+image: images/stack.gif
 title: StackOverflow
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
