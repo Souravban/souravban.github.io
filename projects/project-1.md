@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Document_Image_Classification_icon.png
+image: images/Document_Image_Classification_icon_gif.gif
 title: Image Classification Decoded
 permalink: projects/Image_Classification
 # All dates must be YYYY-MM-DD format!
