@@ -10,6 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
 summary: Prediction of listening preferences of a given user based on the previous music listening patterns.
+---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
