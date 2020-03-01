@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Amazon_Fine_Food_Review_icon.png
+image: images/Amazon_Fine_Food_Review_icon_gif.gif
 title: Amazon Fine Food Review
 permalink: projects/Amazon_Food
 # All dates must be YYYY-MM-DD format!
