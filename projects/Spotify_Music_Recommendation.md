@@ -5,7 +5,7 @@ image: images/Spotify_Music_Recommendation_icon.png
 title: Spotify Music Recommendation
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2020-03-01
 labels:
   - Machine Learning
   - Deep Learning
