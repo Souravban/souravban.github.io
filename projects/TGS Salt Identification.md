@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TGS_Salt_Identification_Challenge_icon.png
+image: images/TGS_Salt_Identification_Challenge_icon_gif.gif
 title: TGS Salt Identification
 permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
