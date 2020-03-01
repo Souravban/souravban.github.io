@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Boston_Housing_Price_icon.png
+image: images/Boston_Housing_Price_icon_gif.gif
 title: Boston Housing Price Prediction
 permalink: projects/Housing
 # All dates must be YYYY-MM-DD format!
