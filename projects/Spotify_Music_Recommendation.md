@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Spotify_Music_Recommendation_icon.png
+image: images/Spotify_Music_Recommendation_icon.gif
 title: Spotify Music Recommendation
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
