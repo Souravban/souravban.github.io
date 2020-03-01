@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LSTM_on_Donors_Choose_Dataset.png
+image: images/LSTM_on_Donors_Choose_Dataset_gif.gif
 title: LSTM on Donors Choose Dataset
 permalink: projects/Donor
 # All dates must be YYYY-MM-DD format!
