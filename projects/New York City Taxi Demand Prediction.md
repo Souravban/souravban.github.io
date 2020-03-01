@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/New_York_City_Taxi_Demand_Prediction_icon.png
+image: images/New_York_City_Taxi_Demand_Prediction_icon_gif.gif
 title: New York City Taxi Demand Prediction
 permalink: projects/NYC_Taxi
 # All dates must be YYYY-MM-DD format!
