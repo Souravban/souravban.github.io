@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Titanic_Survival_Prediction_icon.png
+image: images/Titanic_Survival_Prediction_icon_gif.gif
 title: Titanic Survival Prediction
 permalink: projects/Titanic
 # All dates must be YYYY-MM-DD format!
