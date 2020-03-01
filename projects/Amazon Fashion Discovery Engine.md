@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Amazon_Fashion_Discovery_Engine_icon.png
+image: images/Amazon_Fashion_Discovery_Engine_icon_gif.gif
 title: Amazon Fashion Discovery Engine
 permalink: projects/Amazon_Fashion
 # All dates must be YYYY-MM-DD format!
