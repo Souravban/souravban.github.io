@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Personalized_Cancer_Diagnosis_icon.png
+image: images/Personalized_Cancer_Diagnosis_icon_gif.gif
 title: Personalized Cancer Diagnosis
 permalink: projects/Cancer
 # All dates must be YYYY-MM-DD format!
