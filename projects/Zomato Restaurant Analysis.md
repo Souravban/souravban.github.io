@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Zomato_Restaurant_Analysis_icon.png
+image: images/Zomato_Restaurant_Analysis_icon_gif.gif
 title: Zomato Restaurant Analysis
 permalink: projects/Zomato
 # All dates must be YYYY-MM-DD format!
