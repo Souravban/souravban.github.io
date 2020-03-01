@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Netflix_Movie_Recommedation_System_icon.png
+image: images/Netflix_Movie_Recommedation_System_icon_gif.gif
 title: Netflix Movie Recommendation System
 permalink: projects/Netflix
 # All dates must be YYYY-MM-DD format!
