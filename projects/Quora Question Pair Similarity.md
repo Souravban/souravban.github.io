@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Quora_Question_Pair_Similarity_icon.png
+image: images/Quora_Question_Pair_Similarity_icon_gif.gif
 title: Quora Question Pair Similarity
 permalink: projects/Quora
 # All dates must be YYYY-MM-DD format!
