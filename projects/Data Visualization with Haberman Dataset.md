@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Data_Visualization_with_Haberman_Dataset_icon.png
+image: images/Data_Visualization_with_Haberman_Dataset_icon_gif.gif
 title: Data Visualization with Haberman Dataset
 permalink: projects/Haberman
 # All dates must be YYYY-MM-DD format!
