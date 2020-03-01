@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Khai-Khai-A-Snake-Game.png
+image: images/Khai_Khai_A_Snake_Game_gif.gif
 title: Khai-Khai - A Snake Game
 permalink: projects/Snake
 # All dates must be YYYY-MM-DD format!
