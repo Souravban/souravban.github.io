@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Human_Activity_Recognition_icon.png
+image: images/Human_Activity_Recognition_icon_gif.gif
 title: Human Activity Recognition
 permalink: projects/Human
 # All dates must be YYYY-MM-DD format!
