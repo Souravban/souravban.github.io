@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Facebook_Friend_Recommendation_icon.png
+image: images/Facebook_Friend_Recommendation_icon_gif.gif
 title: Facebook Friend Recommendation
 permalink: projects/Facebook
 # All dates must be YYYY-MM-DD format!
