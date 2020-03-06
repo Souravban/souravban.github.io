@@ -1,62 +1,57 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
-permalink: projects/cotton
+image: images/Red_Wine_icon_gif.gif
+title: Red Wine Quality Prediction
+permalink: projects/Red_Wine
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-31
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: In this challenge, we are analysing the Red Wines to find which wine is excellent and which one is poor in quality.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/Red_Wine_Quality_Prediction_Banner.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
-To give you a flavor of the game, here is an excerpt from one run:
+These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
-<hr>
+<b>Problem Statement</b> : In this challenge, we are analysing the Red Wines to find which wine is excellent and which one is poor in quality.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<b>Source</b> : [https://archive.ics.uci.edu/ml/datasets/wine+quality](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<b>Data Description</b> : 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+<b>fixed acidity</b> - most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 
-pickup candle
-- you are now carrying the candle -
+<b>volatile acidity</b> - the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
 
-pickup match
-- you are now carrying the match -
+<b>citric acid</b> - found in small quantities, citric acid can add 'freshness' and flavor to wines
 
-light match candle
+<b>residual sugar</b> - the amount of sugar remaining after fermentation stops, it's rare to find wines with less than 1 gram/liter and wines with greater than 45 grams/liter are considered sweet
 
-The candle is now lit. It illuminates everything in the room.
+<b>chlorides</b> - the amount of salt in the wine
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+<b>free sulfur dioxide</b> - the free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion; it prevents microbial growth and the oxidation of wine
 
-<hr>
+<b>total sulfur dioxide</b> - amount of free and bound forms of S02; in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+<b>density</b> - the density of water is close to that of water depending on the percent alcohol and sugar content
 
+<b>pH</b> - describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
+
+<b>sulphates</b> - a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
+
+<b>alcohol</b> - the percent alcohol content of the wine
+
+<b>quality</b> - output variable (based on sensory data, score between 0 and 10)
+
+<b>Real-world/Business Objectives and Constraints</b> : 
+1. The cost of a mis-classification is high.
+2. No strict latency concerns.
+3. It will help everyone to unterstand the insights of Red Wines.
+
+<h1>ONGOING WORK<h1>
+
+To learn more please visit : [Here](https://github.com/Souravban/Zomato-Restaurant-Analysis)
