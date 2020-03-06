@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
-permalink: projects/cotton
+image: images/SQL_on_IMDB_Dataset_gif.gif
+title: SQL on IMDB Dataset
+permalink: projects/SQL
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-31
 labels:
