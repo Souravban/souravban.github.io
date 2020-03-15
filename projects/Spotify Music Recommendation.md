@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Spotify_Music_Recommendation_icon.gif
-title: Spotify Music Recommendation
+title: Spotify Music Recommendation - Work in Progress
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
