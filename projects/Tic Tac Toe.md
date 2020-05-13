@@ -21,8 +21,6 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 
 <b>Problem Statement</b> : We are making a prototype of the famous game Tic Tac Toe.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
-
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. This is a very easy to understand and it is an addictive game.
 2. No strict latency concerns.
