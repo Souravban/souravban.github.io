@@ -31,4 +31,4 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 5. The development cost for this program is very low.
 6. This project has been developed using Python3 and therefore it is only compatible with all kinds of Operating Systems.
 
-To learn more please visit : [Here](https://github.com/Souravban/Zomato-Restaurant-Analysis)
+To learn more please visit : [Here](https://github.com/Souravban/Tic-Tac-Toe)
