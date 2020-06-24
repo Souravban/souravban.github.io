@@ -22,7 +22,7 @@ Image classification is a supervised learning problem: define a set of target cl
 
 <b>Problem Statement</b> : In this challenge, we are building a Hollywood Actor Classifier with help of random pictures of the Hollywood Actors.
 
-<b>Source</b> : Downloaded from the internet with all the pictures of the Hollywood Actors.
+<b>Source</b> : All the pictures of the Hollywood Actors is downloaded from the internet.
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
