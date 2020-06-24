@@ -18,51 +18,14 @@ summary: We are building a simple image classifier to identify various Hollywood
 
 <img class="ui image" src="../images/Hollywood_Actor_Classifier_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Image classification is a supervised learning problem: define a set of target classes (objects to identify in images), and train a model to recognize them using labeled example photos. Early computer vision models relied on raw pixel data as the input to the model. However, as shown in Figure 2, raw pixel data alone doesn't provide a sufficiently stable representation to encompass the myriad variations of an object as captured in an image. The position of the object, background behind the object, ambient lighting, camera angle, and camera focus all can produce fluctuation in raw pixel data; these differences are significant enough that they cannot be corrected for by taking weighted averages of pixel RGB values.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+<b>Problem Statement</b> : In this challenge, we are building a Hollywood Actor Classifier with help of random pictures of the Hollywood Actors.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
-
-<b>Data Description</b> : 
-
-<b>url</b> : contains the url of the restaurant in the zomato website
-
-<b>address</b> : contains the address of the restaurant in Bengaluru
-
-<b>name</b> : contains the name of the restaurant
-
-<b>online_order</b> : whether online ordering is available in the restaurant or not
-
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restaurant
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>Source</b> : Downloaded from the internet with all the pictures of the Hollywood Actors.
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+2. There is strict latency concerns.
 
 To learn more please visit : [Here](https://github.com/Souravban/Hollywood-Actor-Classifier)
