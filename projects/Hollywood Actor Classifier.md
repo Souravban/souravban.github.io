@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Hollywood_Actor_Classifier_gif.gif
+image: images/Hollywood_Actor_Classifier_gi.gif
 title: Hollywood Actor Classifier
 permalink: projects/Actor
 # All dates must be YYYY-MM-DD format!
@@ -10,8 +10,8 @@ labels:
   - Machine Learning
   - Deep Learning
   - Flask
-  - Html
-  - Css
+  - HTML
+  - CSS
   - JavaScript
 summary: We are building a simple image classifier to identify various Hollywood Actors.
 ---
