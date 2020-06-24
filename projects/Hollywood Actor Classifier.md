@@ -9,6 +9,10 @@ date: 2020-06-24
 labels:
   - Machine Learning
   - Deep Learning
+  - Flask
+  - Html
+  - Css
+  - JavaScript
 summary: We are building a simple image classifier to identify various Hollywood Actors.
 ---
 
