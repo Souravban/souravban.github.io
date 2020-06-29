@@ -16,53 +16,16 @@ labels:
 summary: It is a image classifier which can detect Covid-19 results bases on X-Ray images.
 ---
 
-<img class="ui image" src="../images/Zomato_Restaurant_Analysis_Banner.png">
+<img class="ui image" src="../images/Covid-19_Detection_Banner.png">
 
-The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the aggregate rating of each restaurant, establishment of different types of restaurant at different places, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With each day new restaurants opening the industry has'nt been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don't have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data, by studying different factors.
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic.[10][11] The first confirmed case has been traced back to 17 November 2019 in Hubei. Traces of the virus have been found in wastewater that was collected from Milan and Turin, Italy, on 18 December 2019. As of 29 June 2020, more than 10.1 million cases have been reported across 188 countries and territories, resulting in more than 501,000 deaths. More than 5.14 million people have recovered.
 
-<b>Problem Statement</b> : In this challenge, we are analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.
+Common symptoms include fever, cough, fatigue, shortness of breath, and loss of smell and taste. While the majority of cases result in mild symptoms, some progress to acute respiratory distress syndrome (ARDS) possibly precipitated by cytokine storm, multi-organ failure, septic shock, and blood clots. The time from exposure to onset of symptoms is typically around five days, but may range from two to fourteen days.
 
-<b>Source</b> : [https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
-
-<b>Data Description</b> : 
-
-<b>url</b> : contains the url of the restaurant in the zomato website
-
-<b>address</b> : contains the address of the restaurant in Bengaluru
-
-<b>name</b> : contains the name of the restaurant
-
-<b>online_order</b> : whether online ordering is available in the restaurant or not
-
-<b>book_table</b> : table book option available or not
-
-<b>rate</b> : contains the overall rating of the restaurant out of 5
-
-<b>votes</b> : contains total number of rating for the restaurant as of the above mentioned date
-
-<b>phone</b> : contains the phone number of the restaurant
-
-<b>location</b> : contains the neighborhood in which the restaurant is located
-
-<b>rest_type</b> : restaurant type
-
-<b>dish_liked</b> : dishes people liked in the restaurant
-
-<b>cuisines</b> : food styles, separated by comma
-
-<b>approx_cost(for two people)</b> : contains the approximate cost for meal for two people
-
-<b>reviews_list</b> : list of tuples containing reviews for the restaurant, each tuple consists of two values, rating and review by the customer
-
-<b>menu_item</b> : contains list of menus available in the restaurant
-
-<b>listed_in(type)</b> : type of meal
-
-<b>listed_in(city)</b> : contains the neighborhood in which the restaurant is listed
+<b>Problem Statement</b> : In this challenge, we are classifying of various chest X-Ray images which will help us detect Covid-19.
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
-2. No strict latency concerns.
-3. It will help everyone to unterstand the insights of a restaurant business.
+2. There is a strict latency concerns.
 
 To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images)
