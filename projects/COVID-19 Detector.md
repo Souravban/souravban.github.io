@@ -1,16 +1,19 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
-permalink: projects/cotton
+image: images/COVID-19_Detector_gif.gif
+title: COVID-19 Detection from X-Ray Images
+permalink: projects/Covid
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2020-06-29
 labels:
   - Machine Learning
   - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+  - Flask
+  - CSS
+  - HTML
+  - JavaScript
+summary: It is a image classifier which can detect Covid-19 results bases on X-Ray images.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
