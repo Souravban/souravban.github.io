@@ -22,7 +22,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 Common symptoms include fever, cough, fatigue, shortness of breath, and loss of smell and taste. While the majority of cases result in mild symptoms, some progress to acute respiratory distress syndrome (ARDS) possibly precipitated by cytokine storm, multi-organ failure, septic shock, and blood clots. The time from exposure to onset of symptoms is typically around five days, but may range from two to fourteen days.
 
-<b>Problem Statement</b> : In this challenge, we are classifying of various chest X-Ray images which will help us detect Covid-19.
+<b>Problem Statement</b> : In this challenge, we are analysing various chest X-Rays and making a image classifier which will help us detect Covid-19.
 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
