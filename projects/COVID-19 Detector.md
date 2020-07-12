@@ -13,7 +13,7 @@ labels:
   - CSS
   - HTML
   - JavaScript
-summary: It is a image classifier which can detect Covid-19 results bases on X-Ray images.
+summary: It is an image classifier which can detect Covid-19 results bases on Chest X-Ray images.
 ---
 
 <img class="ui image" src="../images/Covid-19_Detection_Banner.png">
