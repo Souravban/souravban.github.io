@@ -2,8 +2,10 @@
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign experience_pages = site.pages | where: "type", "experience"  | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
+{% assign num_experiences = experience_pages.size %}
 
 <div style="height: 100%; margin-top: -75px" class="ui middle aligned grid ">
 
@@ -45,6 +47,9 @@
           <button class="ui basic button">Essays ({{ num_essays }})</button>
         </a>
         <a href="{{ site.baseurl}}/bio/">
+          <button class="ui basic button">{{ site.bio-page-label }}</button>
+        </a>
+        <a href="{{ site.baseurl}}/experience/">
           <button class="ui basic button">{{ site.bio-page-label }}</button>
         </a>
       </div>
