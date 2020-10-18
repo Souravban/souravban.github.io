@@ -25,7 +25,7 @@ layout: default
   
   <h3>Experience</h3>
   <ul>
-    {% assign experience_pages = site.pages | where: "type", "experience" | sort: "title" %}
+    {% assign experience_pages = site.pages | where: "type", "experiences" | sort: "title" %}
     {% for page in experience_pages %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
