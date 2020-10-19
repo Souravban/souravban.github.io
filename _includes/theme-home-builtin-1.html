@@ -1,5 +1,6 @@
 <!-- Home page design with small circular image bisecting card. -->
 
+
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign experiences_pages = site.pages | where: "type", "experiences"  | where_exp: "page", "page.draft != true" %}
