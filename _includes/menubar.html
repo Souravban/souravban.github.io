@@ -5,7 +5,7 @@
 {% assign experience_pages = site.pages | where: "type", "experience" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
-{% assign num_projects = experience_pages.size %}
+{% assign num_experiences = experiences_pages.size %}
 
 <div class="nonprintable">
   <nav class="ui stackable menu">
@@ -20,7 +20,7 @@
     {% endif %}
     <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
     {% if num_experience > 0 %}
-    <a href="{{ site.baseurl }}/experience" class=" {% if include.active == "experience" %} active {% endif %} item">Experience ({{ num_experience }})</a>
+    <a href="{{ site.baseurl }}/experiences" class=" {% if include.active == "experiences" %} active {% endif %} item">Experiences ({{ num_experiences }})</a>
     {% endif %}
   </nav>
 </div> 
