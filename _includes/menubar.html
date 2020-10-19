@@ -2,10 +2,10 @@
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
-{% assign experiences_pages = site.pages | where: "type", "experiences" | where_exp: "page", "page.draft != true" %}
+{% assign experience_pages = site.pages | where: "type", "experience" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
-{% assign num_experiences = experiences_pages.size %}
+{% assign num_projects = experience_pages.size %}
 
 <div class="nonprintable">
   <nav class="ui stackable menu">
@@ -19,9 +19,8 @@
     <a href="{{ site.baseurl }}/essays" class=" {% if include.active == "essays" %} active {% endif %} item">Essays ({{ num_essays }})</a>
     {% endif %}
     <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
-    {% if num_experiences > 0 %}
-    <a href="{{ site.baseurl }}/experiences" class=" {% if include.active == "experiences" %} active {% endif %} item">Experiences ({{ num_experiences }})</a>
-    
+    {% if num_experience > 0 %}
+    <a href="{{ site.baseurl }}/experience" class=" {% if include.active == "experience" %} active {% endif %} item">Experience ({{ num_experience }})</a>
+    {% endif %}
   </nav>
 </div>
- 
