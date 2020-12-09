@@ -13,7 +13,7 @@ labels:
   - CSS
   - HTML
   - JavaScript
-summary: It is an image classifier which can detect Covid-19 results bases on Chest X-Ray images.
+summary: This is an image classifier which can detect Covid-19 bases on Chest X-Ray images.
 ---
 
 <img class="ui image" src="../images/Covid-19_Detection_Banner.png">
@@ -27,5 +27,7 @@ Common symptoms include fever, cough, fatigue, shortness of breath, and loss of 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. There is a strict latency concerns.
+
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=SqmGMiM7DCA)
 
 To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images)
