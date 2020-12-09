@@ -13,7 +13,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: This is an image Classifier to identify various Hollywood Actors.
+summary: <b>This is an image Classifier to identify various Hollywood Actors.</b>
 ---
 
 <img class="ui image" src="../images/Hollywood_Actor_Classifier_Banner.png">
