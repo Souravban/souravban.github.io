@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Toxic_Comment_Classification_Challenge_icon_gif_2.gif
+image: images/Toxic_Comment_Classification_Challenge_icon_gif_3.gif
 title: Toxic Comment Classification Challenge
 permalink: projects/Toxic_Comment_Classification
 # All dates must be YYYY-MM-DD format!
