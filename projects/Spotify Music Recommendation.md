@@ -9,7 +9,7 @@ date: 2020-03-01
 labels:
   - Machine Learning
   - Deep Learning
-summary: <b>Here I am Predicting the listening preferences of a given user based on the previous music listening patterns.</b>
+summary: <b>Here, I am trying to predict the listening preferences of a given user based on the previous Music listening patterns.</b>
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
