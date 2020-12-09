@@ -9,7 +9,7 @@ date: 2020-02-16
 labels:
   - Machine Learning
   - Deep Learning 
-summary: In TGS Salt Identification Challenge, we are trying to find the more insights on how to find deposits of salt below the surface correctly.
+summary: <b>In TGS Salt Identification Challenge, I am trying to gain insights on how to find Salt Deposits below the Earth's surface.</b>
 ---
 
 <img class="ui image" src="../images/TGS_Salt_Identification_Challenge_Banner.png">
