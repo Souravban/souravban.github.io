@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Computer Vision
-summary: <b>This is a Document Image Classifier trained on the RVL-CDIP Dataset using VGG16 Network.</b>
+summary: <b>Detection of different types of Document Images and classify them in different classes like Letter, Form, Email, Handwritten, Advertisement, Scientific Report, Scientific Publication, Specification, File Folder, News Article, Budget, Invoice, Presentation, Questionnaire, Resume, Memo.</b>
 ---
 
 <img class="ui image" src="../images/Image_Classification_Decoded_Banner.png">
