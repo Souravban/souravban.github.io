@@ -1,62 +1,40 @@
 ---
 layout: project
 type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
+image: images/Flight_Fare_Prediction_icon.gif
+title: Flight Fare Prediction
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-31
+date: 2019-06-12
 labels:
   - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: Here, I am using existing flight records to determine flight prices based on the different parameters.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/Flight_Fare_Prediction_Banner.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Guessing the flight prices can be very hard sometimes, today we might see a price but when we check out the same flight the price might be different. We might have often heard travelers saying that flight ticket prices are so unpredictable. Here we will be provided with different prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities.
 
-To give you a flavor of the game, here is an excerpt from one run:
+<b>Problem Statement</b> : <b>In this challenge, I am using these flight records to determine flight prices based on the different parameters.</b>
 
-<hr>
+<b>Source</b> : [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<b>Data Description</b> : 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<b>Airline</b>
+<b>Date_of_Journey</b>
+<b>Source</b>
+<b>Destination</b>
+<b>Route</b>
+<b>Dep_Time</b>
+<b>Arrival_Time</b>
+<b>Duration</b>
+<b>Total_Stops</b>
+<b>Additional_Info</b>
+<b>Price</b>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+<b>Real-world/Business Objectives and Constraints</b> : 
+1. The cost of a mis-classification can be high.
+2. No strict latency concerns.
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+To learn more please visit : [Here](https://github.com/iamsouravbanerjee/Flight-Fare-Prediction)
