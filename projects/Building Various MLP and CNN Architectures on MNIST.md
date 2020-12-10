@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Building_Various_MLP_and_CNN_Architectures-on-MNIST_Dataset_icon_gif.gif
-title: Handwritten Character Detectionusing MLP and CNN
+title: Handwritten Digit Recognizer
 permalink: projects/MLP_CNN
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-05
