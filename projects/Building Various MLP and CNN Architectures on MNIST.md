@@ -9,7 +9,7 @@ date: 2019-07-05
 labels:
   - Machine Learning
   - Deep Learning
-summary: We are building various Deep Learning models on MNIST Dataset.
+summary: <b>We are building various Deep Learning models on MNIST Dataset.Detection of different types of Handwritten Character (MNIST Dataset) and classifying them in different classes from 0 to 9 using MLP and CNN.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=cfipz5xF3zQ'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Building_Various_MLP_Architectures_on_MNIST_Banner.png">
@@ -19,6 +19,8 @@ The MNIST database of handwritten digits, available from this page, has a traini
 <b>Problem Statement</b> : In this challenge, we are Building various MLP and CNN architectures for MNIST Dataset.
 
 <b>Source</b> : [https://s3.amazonaws.com/img-datasets/mnist.npz](https://s3.amazonaws.com/img-datasets/mnist.npz)
+
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=PFlCU7Knf7A)
 
 To learn more please visit : 
 
