@@ -8,7 +8,7 @@ permalink: projects/NYC_Taxi
 date: 2019-05-23
 labels:
   - Machine Learning
-summary: To find number of pickups, given location cordinates (latitude and longitude) and time, in the query reigion and surrounding regions.
+summary: <b>To find number of pickups, given location cordinates (latitude and longitude) and time, in the query reigion and surrounding regions.</b>
 ---
 
 <img class="ui image" src="../images/New_York_City_Taxi_Demand_Prediction_Banner.png">
