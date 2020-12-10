@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Computer Vision
-summary: Image Classification on the RVL-CDIP Dataset using VGG16 Network.
+summary: <b>This is a Document Image Classifier trained on the RVL-CDIP Dataset using VGG16 Network.</b>
 ---
 
 <img class="ui image" src="../images/Image_Classification_Decoded_Banner.png">
