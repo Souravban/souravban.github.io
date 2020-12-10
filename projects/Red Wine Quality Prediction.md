@@ -8,7 +8,7 @@ permalink: projects/Red_Wine
 date: 2019-07-31
 labels:
   - Machine Learning
-summary: In this challenge, we are analysing the Red Wines to find which wine is excellent and which one is poor in quality.
+summary: <b>Here, I am analysing the different kinds of Red Wines to find which wine is Excellent and which one is Poor in quality based on various parameters.</b>
 ---
 
 <img class="ui image" src="../images/Red_Wine_Quality_Prediction_Banner.png">
