@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Internet of things
-summary: <b>A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b>A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=MYwCRU429LU'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Self_Driving_Car_Banner.png">
