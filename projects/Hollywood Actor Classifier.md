@@ -13,7 +13,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: <b>This is an image Classifier to identify various Hollywood Actors.</b>
+summary: <b>This is an image Classifier to identify various Hollywood Actors.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=cfipz5xF3zQ'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Hollywood_Actor_Classifier_Banner.png">
@@ -27,5 +27,7 @@ Image classification is a supervised learning problem: define a set of target cl
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. There is strict latency concerns.
+
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=cfipz5xF3zQ)
 
 To learn more please visit : [Here](https://github.com/Souravban/Hollywood-Actor-Classifier)
