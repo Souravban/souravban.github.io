@@ -9,7 +9,7 @@ date: 2019-05-13
 labels:
   - Machine Learning
   - Deep Learning
-summary: Building various LSTM architectures on IMDB Dataset.
+summary: <b>Building various LSTM architectures on IMDB Dataset.</b>
 ---
 
 <img class="ui image" src="../images/Applying_LSTM_on_IMDB_Dataset_Banner.png">
