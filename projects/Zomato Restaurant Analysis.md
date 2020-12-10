@@ -8,6 +8,8 @@ permalink: projects/Zomato
 date: 2020-02-06
 labels:
   - Machine Learning
+  - Data Analysis
+  - Data Visualization
 summary: <b>In this challenge, I am analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.</b>
 ---
 
