@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: <b>A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Self_Driving_Car_Banner.png">
@@ -23,5 +23,7 @@ A Self-Driving Car, also known as an Autonomous Vehicle (AV), connected and auto
 1. The cost of a mis-classification can be high.
 2. There is very strict latency concerns.
 3. It will help everyone to build Cars for the future.
+
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=MYwCRU429LU)
 
 To learn more please visit : [Here](https://github.com/Souravban/Self-Driving-Car)
