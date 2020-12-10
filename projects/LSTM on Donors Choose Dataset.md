@@ -9,7 +9,7 @@ date: 2019-08-13
 labels:
   - Machine Learning
   - Deep Learning
-summary: Predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the metadata.
+summary: <b>Predicting whether or not a DonorsChoose.org project proposal submitted by a teacher will be approve, using the metadata.</b>
 ---
 
 <img class="ui image" src="../images/LSTM_on_Donors_Choose_Dataset_Banner.png">
