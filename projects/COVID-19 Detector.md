@@ -13,7 +13,7 @@ labels:
   - CSS
   - HTML
   - JavaScript
-summary: <b>This is an Image Detector which can detect Covid-19 from Chest X-Ray images.<button onclick="location.href='http://www.example.com'" type="button">www.example.com</button>></b>
+summary: <b>This is an Image Detector which can detect Covid-19 from Chest X-Ray images.<button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">WATCH DEMO</button></b>
 ---
 
 <img class="ui image" src="../images/Covid-19_Detection_Banner.png">
