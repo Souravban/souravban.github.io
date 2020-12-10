@@ -22,15 +22,25 @@ Guessing the flight prices can be very hard sometimes, today we might see a pric
 <b>Data Description</b> : 
 
 <b>Airline</b>
-<b>Date_of_Journey</b>
+
+<b>Date of Journey</b>
+
 <b>Source</b>
+
 <b>Destination</b>
+
 <b>Route</b>
-<b>Dep_Time</b>
-<b>Arrival_Time</b>
+
+<b>Dep Time</b>
+
+<b>Arrival Time</b>
+
 <b>Duration</b>
-<b>Total_Stops</b>
-<b>Additional_Info</b>
+
+<b>Total Stops</b>
+
+<b>Additional Info</b>
+
 <b>Price</b>
 
 <b>Real-world/Business Objectives and Constraints</b> : 
