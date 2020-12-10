@@ -8,7 +8,7 @@ permalink: projects/Housing
 date: 2019-04-18
 labels:
   - Machine Learning
-summary: Prediction of House Prices in Boston depending upon multiple parameters.
+summary: <b>Prediction of House Prices in Boston depending upon multiple parameters.</b>
 ---
 
 <img class="ui image" src="../images/Boston_Housing_Price_Prediction_Banner.png">
