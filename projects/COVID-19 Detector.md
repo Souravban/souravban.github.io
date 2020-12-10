@@ -13,7 +13,7 @@ labels:
   - CSS
   - HTML
   - JavaScript
-summary: <b>This is an Image Detector which can detect Covid-19 from Chest X-Ray images.</b>
+summary: <b>This is an Image Detector which can detect Covid-19 from Chest X-Ray images.<br>[Demo](https://www.youtube.com/watch?v=SqmGMiM7DCA)</br></b>
 ---
 
 <img class="ui image" src="../images/Covid-19_Detection_Banner.png">
