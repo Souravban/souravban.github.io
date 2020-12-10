@@ -8,7 +8,7 @@ permalink: projects/Titanic
 date: 2019-04-25
 labels:
   - Machine Learning
-summary: Predicting what sorts of people were more likely to survive on Titanic.
+summary: <b>Predicting what sorts of people were more likely to survive on Titanic.</b>
 ---
 
 <img class="ui image" src="../images/Titanic_Survival_Prediction_Banner.png">
