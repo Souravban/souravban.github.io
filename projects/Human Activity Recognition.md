@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Accelerometer
   - Gyroscope
-summary: Building a model that predicts the human activities.
+summary: <b>Building a model that predicts the human activities.</b>
 ---
 
 <img class="ui image" src="../images/Human_Activity_Recognition_Banner.png">
