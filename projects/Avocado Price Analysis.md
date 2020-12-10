@@ -8,7 +8,7 @@ permalink: projects/avocado
 date: 2019-05-16
 labels:
   - Machine Learning
-summary: By using these avocado sales data, I am trying to understand the buying habbits of avocados by millennials.
+summary: <b>By using these avocado sales data, I am trying to understand the buying habbits of avocados by millennials.</b>
 ---
 
 <img class="ui image" src="../images/Avocado_Price_Analysis_Banner.png">
