@@ -8,7 +8,7 @@ permalink: projects/Amazon_Fashion
 date: 2019-07-27
 labels:
   - Machine Learning
-summary: Recommendation of similar Apprel items/products from Amazon fashion products.
+summary: <b>Recommendation of similar Apprel items/products from Amazon fashion products.</b>
 ---
 
 <img class="ui image" src="../images/Amazon_Fashion_Discovery_Engine_Banner.png">
