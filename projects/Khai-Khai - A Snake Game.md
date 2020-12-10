@@ -9,7 +9,7 @@ date: 2016-05-30
 labels:
   - Visual Basic 6.0
   - Snake Game
-summary: Khai-Khai is a simple yet very interesting game inspired by the classic Snake game.
+summary: <b>Khai-Khai is a simple yet very interesting game inspired by the classic Snake game.</b>
 ---
 
 <img class="ui image" src="../images/Khai_Khai_A_Snake_Game_Banner.png">
