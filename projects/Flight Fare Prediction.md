@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Flight_Fare_Prediction_icon.gif
 title: Flight Fare Prediction
-permalink: projects/cotton
+permalink: projects/flight
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-12
 labels:
