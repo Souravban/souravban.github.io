@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Computer Vision
-summary: <b>Detection of different types of Document Images and classify them in different classes like Letter, Form, Email, Handwritten etc using VGG16 Network</b>
+summary: <b>Detection of different types of Document Images and classifying them in different classes like Letter, Form, Email, Handwritten etc using VGG16 Network.</b>
 ---
 
 <img class="ui image" src="../images/Image_Classification_Decoded_Banner.png">
