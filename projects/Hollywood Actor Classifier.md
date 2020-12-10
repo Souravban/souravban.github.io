@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Hollywood_Actor_Classifier_gif.gif
-title: Hollywood Actor Classifier
+title: Hollywood Actor Classifier based on Facial features
 permalink: projects/Actor
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-24
