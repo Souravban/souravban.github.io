@@ -8,7 +8,7 @@ permalink: projects/cotton
 date: 2019-06-12
 labels:
   - Machine Learning
-summary: Here, I am using existing flight records to determine flight prices based on the different parameters.
+summary: <b>Here, I am analysing existing flight records to predict flight prices based on the different parameters.</b>
 ---
 
 <img class="ui image" src="../images/Flight_Fare_Prediction_Banner.png">
