@@ -12,7 +12,7 @@ labels:
   - HTML
   - JavaScript
   - CSS
-summary: <b>Here, I am analysing existing flight records to predict flight prices based on the different parameters.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=VIcft9sRP-k'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b>Here, I am analysing existing flight records to predict flight prices based on the different parameters.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=nykuKc658QQ'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Flight_Fare_Prediction_Banner.png">
@@ -51,6 +51,6 @@ Guessing the flight prices can be very hard sometimes, today we might see a pric
 1. The cost of a mis-classification can be high.
 2. No strict latency concerns.
 
-To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=VIcft9sRP-k)
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=nykuKc658QQ)
 
 To learn more please visit : [Here](https://github.com/iamsouravbanerjee/Flight-Fare-Prediction)
