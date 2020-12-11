@@ -8,6 +8,10 @@ permalink: projects/flight
 date: 2019-06-12
 labels:
   - Machine Learning
+  - Flask
+  - HTML
+  - JavaScript
+  - CSS
 summary: <b>Here, I am analysing existing flight records to predict flight prices based on the different parameters.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=VIcft9sRP-k'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
