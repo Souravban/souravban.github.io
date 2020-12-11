@@ -9,7 +9,7 @@ date: 2016-05-30
 labels:
   - Visual Basic 6.0
   - Snake Game
-summary: <b>Khai-Khai is a simple yet very interesting game inspired by the classic Snake game.</b>
+summary: <b>Khai-Khai is a simple yet very interesting game inspired by the classic Snake game.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=f3yzAGWisMg'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Khai_Khai_A_Snake_Game_Banner.png">
@@ -24,5 +24,7 @@ Snake is a video game first released during the mid-1970s in arcades and has mai
 3. No strict latency concerns.
 4. The development cost for this program is very low.
 5. This project has been developed using Visual Basic 6.0 and therefore it is only compatible with windows systems. The mechanisms of this game is inferior to the snake games of many other platforms.
+
+To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=f3yzAGWisMg)
 
 To learn more please visit : [Here](https://github.com/Souravban/Khai-Khai-A-Snake-Game)
