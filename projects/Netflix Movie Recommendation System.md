@@ -8,7 +8,7 @@ permalink: projects/Netflix
 date: 2019-06-17
 labels:
   - Machine Learning
-summary: <b>Predict the rating that a user would give to a movie that is not yet rated.</b>
+summary: <b>Predicting the rating that a user would give to a movie that is not yet rated.</b>
 ---
 
 <img class="ui image" src="../images/Netflix_Movie_Recommedation_System_Banner.png">
