@@ -8,7 +8,7 @@ permalink: projects/StackOverflow
 date: 2019-06-25
 labels:
   - Machine Learning
-summary: <b>Suggest the tags based on the content that was there in the question posted on Stackoverflow.</b>
+summary: <b>Suggesting the tags based on the content that was there in the question posted on Stackoverflow.</b>
 ---
 
 <img class="ui image" src="../images/Stack_Overflow_Tag_Prediction_Banner.png">
