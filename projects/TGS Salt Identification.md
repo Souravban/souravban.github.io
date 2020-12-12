@@ -6,7 +6,7 @@ title: <center>TGS Salt Identification</center>
 permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
 date: <center>2020-02-16</center>
-labels:<center>
+labels:
   - Machine Learning
   - Deep Learning
 summary: <b><center>Trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</center></b>
