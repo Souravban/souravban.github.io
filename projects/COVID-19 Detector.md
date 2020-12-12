@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/COVID-19_Detector_gif.gif
-title: COVID-19 Detection from X-Ray Images
+title: <center>COVID-19 Detection from X-Ray Images</center>
 permalink: projects/Covid
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-29
