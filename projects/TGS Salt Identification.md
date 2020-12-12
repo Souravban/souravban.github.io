@@ -9,7 +9,7 @@ date: 2020-02-16
 labels:
   - Machine Learning
   - Deep Learning
-summary: <b>Trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</b>
+summary: <b>Trying to gain more insights on how to find Salt Deposits below the Earth's surface efficiently.</b>
 ---
 
 <img class="ui image" src="../images/TGS_Salt_Identification_Challenge_Banner.png">
