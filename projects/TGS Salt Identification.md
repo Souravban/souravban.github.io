@@ -5,10 +5,10 @@ image: images/TGS_Salt_Identification_Challenge_icon_gif.gif
 title: <center>TGS Salt Identification</center>
 permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-16
-labels:
+date: <center>2020-02-16</center>
+labels:<center>
   - Machine Learning
-  - Deep Learning 
+  - Deep Learning
 summary: <b><center>Trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</center></b>
 ---
 
