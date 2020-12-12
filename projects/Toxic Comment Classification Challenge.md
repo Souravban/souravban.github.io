@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Text Classification
-summary: <b>Here, I am detecting different kinds of Toxic Comments and classifying them in different classes like Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate.</b>
+summary: <b>Detecting different kinds of Toxic Comments and classifying them in different classes like Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate.</b>
 ---
 
 <img class="ui image" src="../images/Toxic_Comment_Classification_Challenge_Banner.png">
