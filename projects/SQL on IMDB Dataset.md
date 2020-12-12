@@ -9,7 +9,7 @@ date: 2019-08-11
 labels:
   - SQL
   - Database
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+summary: <b>SQL (Sequel) Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS)</b>
 ---
 
 <img class="ui image" src="../images/SQL_on_IMDB_Dataset_Banner.png">
