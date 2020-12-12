@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Hollywood_Actor_Classifier_gif.gif
-title: Hollywood Actor Classifier based on Facial features
+title: <center>Hollywood Actor Classifier based on Facial features</center>
 permalink: projects/Actor
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-24
@@ -13,7 +13,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: <b>This is an image Classifier to identify various Hollywood Actors.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=cfipz5xF3zQ'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b><center>Building an Image Classifier to identify various Hollywood Actors.</center><br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=cfipz5xF3zQ'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Hollywood_Actor_Classifier_Banner.png">
