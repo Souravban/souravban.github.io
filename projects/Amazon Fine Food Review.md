@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Deep Learning
   - Data Visualization
-summary: <b>Given a review, determine whether the review is positive or negative.</b>
+summary: <b>Given a review, determining whether the review is positive or negative.</b>
 ---
 
 <img class="ui image" src="../images/Amazon_Fine_Food_Review_Banner.png">
