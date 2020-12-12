@@ -8,7 +8,7 @@ permalink: projects/Haberman
 date: 2019-01-17
 labels:
   - Machine Learning
-summary: <b>To predict whether a patient will survive after 5 years or not based upon the patient's medical hisotry.</b>
+summary: <b>Predicting whether a patient will survive after 5 years or not based upon the patient's medical hisotry.</b>
 ---
 
 <img class="ui image" src="../images/Data_Visualization_with_Haberman_Dataset_Banner.png">
