@@ -8,7 +8,7 @@ permalink: projects/Facebook
 date: 2019-07-25
 labels:
   - Machine Learning
-summary: <b>Given a directed social graph, we are predicting missing links to recommend users.</b>
+summary: <b>Given a directed social graph, predicting missing links to recommend users.</b>
 ---
 
 <img class="ui image" src="../images/Facebook_Friend_Recommendation_Banner.png">
