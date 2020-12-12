@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/COVID-19_Detector_gif.gif
-title: <center>COVID-19 Detection from X-Ray Images<br>
+title: COVID-19 Detection from X-Ray Images
 permalink: projects/Covid
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-29
 labels:
   - Machine Learning
   - Deep Learning
-summary: <b><center>Building an Image Detector which can detect Covid-19 from Chest X-Ray images.</center><br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b>Building an Image Detector which can detect Covid-19 from Chest X-Ray images.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Covid-19_Detection_Banner.png">
