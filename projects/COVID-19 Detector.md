@@ -5,6 +5,7 @@ image: images/COVID-19_Detector_gif.gif
 title: COVID-19 Detection from X-Ray Images
 permalink: projects/Covid
 # All dates must be YYYY-MM-DD format!
+<center>
 date: 2020-06-29
 labels:
   - Machine Learning
