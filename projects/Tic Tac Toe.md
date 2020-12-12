@@ -8,6 +8,7 @@ permalink: projects/TicTacToe
 date: 2018-12-20
 labels:
   - Python
+  - Tic Tac Toe
 summary: <b>A Tic Tac Toe is a very very simple game which is one of most love game worldwide.</b>
 ---
 
