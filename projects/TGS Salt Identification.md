@@ -7,8 +7,8 @@ permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-16
 labels:
-  - <center>Machine Learning
-  - Deep Learning</center>
+  - Machine Learning
+  - Deep Learning
 summary: <b>Trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</b>
 ---
 
