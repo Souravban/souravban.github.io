@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/TGS_Salt_Identification_Challenge_icon_gif.gif
-title: TGS Salt Identification
+title: <center>TGS Salt Identification</center>
 permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-16
 labels:
   - Machine Learning
   - Deep Learning 
-summary: <b>In TGS Salt Identification Challenge, I am trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</b>
+summary: <b><center>Trying to gain insights on how to find Salt Deposits below the Earth's surface efficiently.</center></b>
 ---
 
 <img class="ui image" src="../images/TGS_Salt_Identification_Challenge_Banner.png">
