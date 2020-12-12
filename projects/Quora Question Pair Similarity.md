@@ -8,7 +8,7 @@ permalink: projects/Quora
 date: 2019-07-01
 labels:
   - Machine Learning
-summary: <b>Identify which questions asked on Quora are duplicates of questions that have already been asked.</b>
+summary: <b>Identifying which questions asked on Quora are duplicates of questions that have already been asked.</b>
 ---
 
 <img class="ui image" src="../images/Quora_Question_Pair_Similarity_Banner.png">
