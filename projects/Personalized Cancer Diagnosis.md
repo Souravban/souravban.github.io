@@ -8,7 +8,7 @@ permalink: projects/Cancer
 date: 2019-05-17
 labels:
   - Machine Learning
-summary: <b>Classify the given Genetic variations/mutations based on evidence from text-based clinical literature.</b>
+summary: <b>Classifying the given Genetic variations/mutations based on evidence from text-based clinical literature.</b>
 ---
 
 <img class="ui image" src="../images/Personalized_Cancer_Diagnosis_Banner.png">
