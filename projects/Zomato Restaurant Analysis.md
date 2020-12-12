@@ -10,7 +10,7 @@ labels:
   - Machine Learning
   - Data Analysis
   - Data Visualization
-summary: <b>In this challenge, I am analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.</b>
+summary: <b>Analysing the Zomato Restaurant dataset to find the more insights about the Restaurant business.</b>
 ---
 
 <img class="ui image" src="../images/Zomato_Restaurant_Analysis_Banner.png">
