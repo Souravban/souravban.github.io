@@ -5,7 +5,7 @@ image: images/TGS_Salt_Identification_Challenge_icon_gif.gif
 title: <center>TGS Salt Identification Challenge</center>
 permalink: projects/Salt
 # All dates must be YYYY-MM-DD format!
-date: <center>2020-02-16
+# date: 2020-02-16
 labels:
   - Machine Learning
   - Deep Learning
