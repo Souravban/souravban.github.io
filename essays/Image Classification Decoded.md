@@ -24,4 +24,4 @@ Link of the RVL-CDIP [Dataset](http://www.cs.cmu.edu/~aharley/rvl-cdip/)
 <b>Business objectives and constraints</b> - Like every problem, there is a real-life/business objective and constraints involved with this Document Image Classification task. Those are - The cost of misclassification can be high, No strict latency concerns, Computationally Expensive.
 
 <br>
-To read the full blog please visit : [Here](https://medium.com/@souravbanerjee216/document-image-classification-fc7584325c8f)
+To read the full blog please visit : [Here](https://iamsouravbanerjee.medium.com/document-image-classification-fc7584325c8f?source=friends_link&sk=fa16c189d94a28aa7eb6d95e6ac1f796)
