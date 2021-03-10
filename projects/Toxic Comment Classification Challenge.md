@@ -21,7 +21,7 @@ The Conversation AI team, a research initiative founded by Jigsaw and Google (bo
 
 In this Case Study, we are challenged to build a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models. You’ll be using a dataset of comments from Wikipedia’s talk page edits. Improvements to the current model will hopefully help online discussion become more productive and respectful.
 
-<b>Problem Statement</b> : Detection of different types of Document images and classify them in different classes like letter, form, email, handwritten, advertisement, scientific report, scientific publication, specification, file folder, news article, budget, invoice, presentation, questionnaire, resume, memo. So It is a Multiclass Classification Problem or we can call it a Computer Vision task.
+<b>Problem Statement</b> : Detecting different kinds of Toxic Comments and classifying them in different classes like Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate. One comment can belongs to 2 or more classes, so we can say that it is Multilabel Classification and not Multiclass Classification. This type of problems belongs to Natural Language Processing (NLP).
 
 <b>Source</b> : [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview)
 
