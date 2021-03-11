@@ -47,4 +47,6 @@ A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets f
 2. No strict latency concerns.
 3. Computationally Expensive.
 
+Video Explanation: [Here](https://www.youtube.com/watch?v=P8v0kEvjtHs)
+
 To learn more please visit : [Here](https://github.com/Souravban/Image-Classification-Decoded)
