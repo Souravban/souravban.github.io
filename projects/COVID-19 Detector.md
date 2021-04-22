@@ -26,4 +26,6 @@ Common symptoms include fever, cough, fatigue, shortness of breath, and loss of 
 
 To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=SqmGMiM7DCA)
 
+Video Explanation: [Here](https://www.youtube.com/watch?v=4UBQLQfnaPg)
+
 To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images)
