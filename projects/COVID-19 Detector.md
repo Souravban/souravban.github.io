@@ -26,8 +26,3 @@ Common symptoms include fever, cough, fatigue, shortness of breath, and loss of 
    
 <div class="buttons">
 		<b><br><center><button onclick="window.open('https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=SqmGMiM7DCA')" type="button">Demo</button> <button onclick="window.open('https://www.youtube.com/watch?v=4UBQLQfnaPg')" type="button">Video Explanation</button><br><br><br><br>
-
-
-
-
-<button onclick="window.open('https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb')" type="button">2</button>
