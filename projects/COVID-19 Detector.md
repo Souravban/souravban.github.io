@@ -23,12 +23,6 @@ Common symptoms include fever, cough, fatigue, shortness of breath, and loss of 
 <b>Real-world/Business Objectives and Constraints</b> : 
 1. The cost of a mis-classification can be high.
 2. There is a strict latency concerns.
-
-To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=SqmGMiM7DCA)
-
-Video Explanation: [Here](https://www.youtube.com/watch?v=4UBQLQfnaPg)
-
-To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images)
    
 <div class="buttons">
-		<b><br><center><button onclick="location.href='https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb'" style="margin-right: 50px" type="button">View Code</button> <button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">Demo</button> <button onclick="location.href='https://www.youtube.com/watch?v=4UBQLQfnaPg'" style="margin-left: 50px" type="button">Video Explanation</button><br><br><br><br>
+		<b><br><center><button onclick="location.href='https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb'" type="button">View Code</button> <button onclick="location.href='https://www.youtube.com/watch?v=SqmGMiM7DCA'" type="button">Demo</button> <button onclick="location.href='https://www.youtube.com/watch?v=4UBQLQfnaPg'" type="button">Video Explanation</button><br><br><br><br>
