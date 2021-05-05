@@ -30,4 +30,7 @@ Video Explanation: [Here](https://www.youtube.com/watch?v=4UBQLQfnaPg)
 
 To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images)
 
-<b><br><center><button onclick="location.href='https://github.com/Souravban/COVID-19-Detection-from-X-Ray-Images'" type="button">NOTEBOOK</button></br></br></center></b>
+<b><br><center><button onclick="location.href='https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb'" type="button">NOTEBOOK</button>
+  
+  
+
