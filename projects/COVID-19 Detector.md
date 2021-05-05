@@ -33,4 +33,12 @@ To learn more please visit : [Here](https://github.com/Souravban/COVID-19-Detect
 <b><br><center><button onclick="location.href='https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb'" type="button">View Code</button> <b><center><button onclick="location.href='https://nbviewer.jupyter.org/github/iamsouravbanerjee/COVID-19-Detection-from-X-Ray-Images/blob/master/COVID%20Detection%20using%20Chest%20X-Rays.ipynb'" type="button">Video Explanation</button><br><br><br><br>
   
   
+  
+  <div class="buttons">
+		<button name="submit" class="action_btn submit" type="submit" value="Save" onclick="myFunction()">Save</button>
+		<button name="submit" class="action_btn cancel" type="submit" value="Cancel" onclick="myFunction2()">Cancel</button>
+		<p id="saved"></p>
+</div>
+  
+  
 
