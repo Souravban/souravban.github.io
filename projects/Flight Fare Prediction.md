@@ -51,6 +51,5 @@ Guessing the flight prices can be very hard sometimes, today we might see a pric
 1. The cost of a mis-classification can be high.
 2. No strict latency concerns.
 
-To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=nykuKc658QQ)
-
-To learn more please visit : [Here](https://github.com/iamsouravbanerjee/Flight-Fare-Prediction)
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/iamsouravbanerjee/Flight-Fare-Prediction')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=nykuKc658QQ')" type="button">Demo</button><br><br><br><br>
