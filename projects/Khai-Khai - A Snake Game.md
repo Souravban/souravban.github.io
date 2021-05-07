@@ -25,6 +25,5 @@ Snake is a video game first released during the mid-1970s in arcades and has mai
 4. The development cost for this program is very low.
 5. This project has been developed using Visual Basic 6.0 and therefore it is only compatible with windows systems. The mechanisms of this game is inferior to the snake games of many other platforms.
 
-To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=f3yzAGWisMg)
-
-To learn more please visit : [Here](https://github.com/Souravban/Khai-Khai-A-Snake-Game)
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/iamsouravbanerjee/Khai-Khai-A-Snake-Game')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=f3yzAGWisMg')" type="button">Demo</button><br><br><br><br>
