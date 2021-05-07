@@ -24,6 +24,5 @@ A Self-Driving Car, also known as an Autonomous Vehicle (AV), connected and auto
 2. There is very strict latency concerns.
 3. It will help everyone to build Cars for the future.
 
-To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=MYwCRU429LU)
-
-To learn more please visit : [Here](https://github.com/Souravban/Self-Driving-Car)
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/iamsouravbanerjee/Self-Driving-Car')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=MYwCRU429LU')" type="button">Demo</button><br><br><br><br>
