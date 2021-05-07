@@ -32,6 +32,5 @@ In this Case Study, we are challenged to build a multi-headed model that’s cap
 2. No strict latency concerns.
 3. Determining a comment toxic or not is highly subjective from person to person.
 
-Video Explanation: [Here](https://www.youtube.com/watch?v=Kd5ToGxkFdM)
-
-To learn more please visit : [Here](https://github.com/Souravban/Toxic-Comment-Classification-Challenge)
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://nbviewer.jupyter.org/github/iamsouravbanerjee/Toxic-Comment-Classification-Challenge/blob/master/Toxic%20Comment%20Classification%20Challenge.ipynb')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=Kd5ToGxkFdM')" type="button">Video Explanation</button><br><br><br><br>
