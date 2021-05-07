@@ -27,3 +27,6 @@ Image classification is a supervised learning problem: define a set of target cl
 To watch the Demo please visit: [Demo](https://www.youtube.com/watch?v=cfipz5xF3zQ)
 
 To learn more please visit : [Here](https://github.com/Souravban/Hollywood-Actor-Classifier)
+
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/Souravban/Hollywood-Actor-Classifier')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=cfipz5xF3zQ')" type="button">Demo</button><br><br><br><br>
