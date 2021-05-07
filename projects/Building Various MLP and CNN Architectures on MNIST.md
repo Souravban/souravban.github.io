@@ -27,3 +27,6 @@ To learn more please visit :
 [MLP architectures for MNIST Dataset](https://github.com/Souravban/Building-Various-MLP-Architectures-on-MNIST)
 
 [Convolutional Neural Network on MNIST](https://github.com/Souravban/Convolutional-Neural-Network-on-MNIST)
+
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/iamsouravbanerjee/Building-Various-MLP-Architectures-on-MNIST')" type="button">View Code MLP</button> <button onclick="window.open('https://github.com/iamsouravbanerjee/Convolutional-Neural-Network-on-MNIST')" type="button">View Code CNN</button> <button onclick="window.open('https://www.youtube.com/watch?v=PFlCU7Knf7A')" type="button">Demo</button><br><br><br><br>
