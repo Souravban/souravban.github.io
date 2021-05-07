@@ -50,3 +50,6 @@ A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets f
 Video Explanation: [Here](https://www.youtube.com/watch?v=P8v0kEvjtHs)
 
 To learn more please visit : [Here](https://github.com/Souravban/Image-Classification-Decoded)
+
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://nbviewer.jupyter.org/github/iamsouravbanerjee/Image-Classification-Decoded/blob/master/Image%20Classification%20Decoded.ipynb')" type="button">View Code</button> <button onclick="window.open('https://www.youtube.com/watch?v=P8v0kEvjtHs')" type="button">Video Explanation</button><br><br><br><br>
