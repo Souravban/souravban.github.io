@@ -2,9 +2,9 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Sourav Banerjee | Professional Portfolio
+title: Sourav Banerjee
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://souravban.github.io"
+url: "https://iamsouravbanerjee.github.io/"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
@@ -24,4 +24,3 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-
