@@ -1,27 +1,3 @@
----
-layout: project
-type: project
-image: images/Self_Driving_Car_icon.png
-title: Self Driving Car
-permalink: projects/cotton
-# All dates must be YYYY-MM-DD format!
-date: 2019-07-31
-labels:
-  - Machine Learning
-  - Deep Learning
-  - Internet of things
-summary: A self-driving car is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
----
-
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
 You open your eyes, and you are greeted by an unfamiliar ceiling.
 Startled, you get to your feet and quickly scan your surroundings. It's
 dark except for the stream of light coming from a crack on the only boarded
