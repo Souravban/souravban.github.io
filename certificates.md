@@ -4,6 +4,6 @@ permalink: projects/cotton123
 ---
 
 
-<center> CERTIFICATES
+<br><br><br><br><br><br><center><b> CERTIFICATES
 
 
