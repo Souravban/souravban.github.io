@@ -9,7 +9,7 @@ date: 2019-07-05
 labels:
   - Machine Learning
   - Deep Learning
-summary: <b>Detecting different types of Handwritten Digits (MNIST Dataset) and Classifying them in different classes.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=PFlCU7Knf7A'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b>Detecting different types of Handwritten Digits (MNIST Dataset) and Classifying them in different classes.<br><br><center><button onclick="window.open('https://www.youtube.com/watch?v=PFlCU7Knf7A')" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Building_Various_MLP_Architectures_on_MNIST_Banner.png">
