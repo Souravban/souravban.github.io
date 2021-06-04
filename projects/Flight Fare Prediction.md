@@ -12,7 +12,7 @@ labels:
   - HTML
   - JavaScript
   - CSS
-summary: <b>Analysing existing flight records to predict flight prices based on the different parameters.<br><br><center><button onclick="location.href='https://www.youtube.com/watch?v=nykuKc658QQ'" type="button">WATCH DEMO</button></br></br></center></b>
+summary: <b>Analysing existing flight records to predict flight prices based on the different parameters.<br><br><center><button onclick="window.open('https://www.youtube.com/watch?v=nykuKc658QQ')" type="button">WATCH DEMO</button></br></br></center></b>
 ---
 
 <img class="ui image" src="../images/Flight_Fare_Prediction_Banner.png">
