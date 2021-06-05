@@ -22,3 +22,6 @@ We know that Convolutional Neural Networks (CNN) are good at Image Recognition t
 
 <br>
 To read the full blog please visit : [Here](https://iamsouravbanerjee.medium.com/convolutional-neural-network-for-dummies-8b17066a830a)
+
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://iamsouravbanerjee.medium.com/convolutional-neural-network-for-dummies-8b17066a830a')" type="button">Click Here to Read More</button><br><br><br><br>
