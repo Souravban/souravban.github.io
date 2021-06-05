@@ -25,3 +25,6 @@ Link of the RVL-CDIP [Dataset](http://www.cs.cmu.edu/~aharley/rvl-cdip/)
 
 <br>
 To read the full blog please visit : [Here](https://iamsouravbanerjee.medium.com/document-image-classification-fc7584325c8f?source=friends_link&sk=fa16c189d94a28aa7eb6d95e6ac1f796)
+
+<div class="buttons">
+		<b><br><center><button onclick="window.open('https://github.com/iamsouravbanerjee/Khai-Khai-A-Snake-Game')" type="button">Click Here to Read More</button><br><br><br><br>
