@@ -20,8 +20,5 @@ Convolutional Neural Nets (ConvNets or CNN) are a class of neural network specia
 
 We know that Convolutional Neural Networks (CNN) are good at Image Recognition tasks. Now if we have the Image Recognition task then it also can be done with Simple Neural Networks. But if theme images are of large pixels then the problem arises as the number of parameters of the Neural Network will also increase. That makes Neural Networks very slow and computationally expensive.
 
-<br>
-To read the full blog please visit : [Here](https://iamsouravbanerjee.medium.com/convolutional-neural-network-for-dummies-8b17066a830a)
-
 <div class="buttons">
 		<b><br><center><button onclick="window.open('https://iamsouravbanerjee.medium.com/convolutional-neural-network-for-dummies-8b17066a830a')" type="button">Click Here to Read More</button><br><br><br><br>
