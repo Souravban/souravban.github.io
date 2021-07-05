@@ -7,7 +7,8 @@ date: 2019-11-23
 labels:
   - Machine Learning
   - Deep Learning
-  - VGG16 Network
+  - Computer Vision
+  - Image Classification
 ---
 
 <img class="ui middle image" src="../images/Image_Classification_Decoded_A_step_by_step_guide_for_Newbies.png">
